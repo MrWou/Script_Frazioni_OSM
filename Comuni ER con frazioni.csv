@@ -1,0 +1,1558 @@
+city,name,place_type,latitude,longitude
+Agazzano,Agazzano,village,44.945661,9.518564
+Alseno,Alseno,village,44.898364,9.961374
+Alseno,Castelnuovo Fogliani,village,44.8753746,9.9738934
+Besenzone,Besenzone,village,44.987157,9.9535782
+Bettola,Bettola,village,44.7764457,9.6062795
+Bettola,Ferrandi,village,44.801932,9.5728728
+Bettola,Trabucchi,village,44.798067,9.5464065
+Bettola,Costa,village,44.7950217,9.5736256
+Bettola,Crocinito,village,44.8001925,9.5417631
+Bettola,Cerro,village,44.7846827,9.5540629
+Bettola,Bagnata Pradello,village,44.7931042,9.6036052
+Bettola,Bagnata San Giovanni,village,44.7910486,9.6039257
+Bettola,Colombello,village,44.7313924,9.6675823
+Bobbio,Bobbio,village,44.769273,9.3862814
+Borgonovo Val Tidone,Borgonovo Val Tidone,village,45.014362,9.443461
+Borgonovo Val Tidone,Agazzino,village,45.0421551,9.5189799
+Cadeo,Cadeo,village,44.975365,9.83107
+Cadeo,Roveleto,village,44.9656602,9.8525379
+Calendasco,Calendasco,village,45.0873218,9.5974792
+Calendasco,Malpaga,village,45.0688189,9.6373868
+Calendasco,Boscone Cusani,village,45.1090554,9.5593187
+Calendasco,Cotrebbia Nuova,village,45.0715517,9.6306963
+Caorso,Caorso,village,45.0495995,9.8743749
+Caorso,Muradolo,village,45.0379412,9.8527401
+Caorso,Fossadello,village,45.0436627,9.8083257
+Carpaneto Piacentino,Carpaneto Piacentino,village,44.9152116,9.7880952
+Carpaneto Piacentino,Magnano,village,44.8426571,9.7843535
+Castell'Arquato,Castell'Arquato,village,44.8511798,9.8671175
+Castel San Giovanni,Creta,village,45.0233431,9.3778913
+Castel San Giovanni,Fontana Pradosa,village,45.0616561,9.4613622
+Castelvetro Piacentino,Castelvetro Piacentino,village,45.1003347,9.9867161
+Castelvetro Piacentino,Mezzano Chitantolo,village,45.1151109,9.9940939
+Castelvetro Piacentino,San Giuliano Piacentino,village,45.0705789,9.9935058
+Castelvetro Piacentino,San Pedretto,village,45.0758533,9.9614242
+Cerignale,Cerignale,village,44.677853,9.350765
+Coli,Coli,village,44.744756,9.414565
+Coli,Perino,village,44.819436,9.502704
+Corte Brugnatella,Marsaglia,village,44.7115979,9.3815158
+Cortemaggiore,Cortemaggiore,village,44.9963532,9.9310724
+Farini,Farini,village,44.7128373,9.5692864
+Ferriere,Ferriere,village,44.6441441,9.4974568
+Ferriere,Selva,village,44.5848684,9.482817
+Fiorenzuola d'Arda,Baselicaduce,village,44.9440712,9.9402343
+Gazzola,Gazzola,village,44.960062,9.548964
+Gazzola,Tuna,village,44.9821864,9.5762555
+Gazzola,Rivalta Trebbia,village,44.9523277,9.5865686
+Gossolengo,Gossolengo,village,45.0011074,9.6162072
+Gossolengo,Quarto,village,44.9969514,9.6622708
+Gragnano Trebbiense,Gragnano Trebbiense,village,45.013163,9.568964
+Gragnano Trebbiense,Sordello,village,45.0234844,9.5867328
+Gragnano Trebbiense,Madonna del Pilastro,village,45.0327808,9.5781068
+Gragnano Trebbiense,Centora,village,45.0407317,9.5517694
+Gropparello,Gropparello,village,44.8327057,9.729894
+Lugagnano Val d'Arda,Lugagnano Val d'Arda,village,44.821994,9.8284819
+Monticelli d'Ongina,Monticelli d'Ongina,village,45.0895109,9.9331646
+Monticelli d'Ongina,Fogarole,village,45.1062412,9.962946
+Monticelli d'Ongina,Olza,village,45.1079655,9.9514414
+Monticelli d'Ongina,San Nazzaro,village,45.0761073,9.8978258
+Monticelli d'Ongina,San Pietro in Corte,village,45.0815105,9.9626661
+Morfasso,Morfasso,village,44.7227486,9.7028607
+Morfasso,Ca' Ruggeri,village,44.7064193,9.7311065
+Morfasso,Salino,village,44.7051451,9.7338759
+Morfasso,Casali,village,44.7006505,9.7529382
+Morfasso,Rusteghini,village,44.7028689,9.7213862
+Morfasso,Greghi,village,44.705145,9.7210512
+Morfasso,Pedina,village,44.7123003,9.7393519
+Ottone,Ottone,village,44.6232492,9.3326598
+Ottone,Tartago,village,44.6523944,9.2844614
+Piacenza,I Vaccari,village,44.9957764,9.744364
+Piacenza,Mortizza,village,45.0794942,9.7562143
+Piacenza,Gerbido,village,45.0549462,9.7493791
+Piacenza,Roncaglia,village,45.0437338,9.7956882
+Piacenza,Borghetto,village,45.02514,9.7820441
+Piacenza,San Bonico,village,45.013027,9.6929258
+Pianello Val Tidone,Pianello Val Tidone,village,44.94666,9.405161
+Piozzano,Piozzano,village,44.926261,9.496064
+Podenzano,San Polo,village,44.9786499,9.7404575
+Podenzano,Podenzano,village,44.956363,9.684967
+Ponte dell'Olio,Ponte dell'Olio,village,44.867361,9.642268
+Pontenure,Pontenure,village,44.9992666,9.7884285
+Pontenure,Valconasso,village,44.9668171,9.7818178
+Rivergaro,Niviano,village,44.9407227,9.6302173
+Rivergaro,Rivergaro,village,44.9102508,9.5965212
+Rottofreno,Rottofreno,village,45.0576876,9.5502149
+Rottofreno,Sant'Imento,village,45.0788003,9.5678792
+Rottofreno,Ponte Trebbia,village,45.0564045,9.6216741
+San Giorgio Piacentino,San Giorgio Piacentino,village,44.954163,9.736869
+San Pietro in Cerro,San Pietro in Cerro,village,45.0214997,9.948488
+San Pietro in Cerro,Polignano,village,45.0448485,9.9072269
+Sarmato,Sarmato,village,45.0597632,9.4913135
+Travo,Travo,village,44.86246,9.545366
+Travo,Denavolo,village,44.8524776,9.5624613
+Vernasca,Vernasca,village,44.7994378,9.8306675
+Vernasca,Vigoleno,village,44.8165733,9.9004921
+Vernasca,Vezzolacca,village,44.7432746,9.7917519
+Vernasca,Bacedasco Basso,village,44.8445868,9.9224087
+Vigolzone,Vigolzone,village,44.914662,9.669368
+Villanova sull'Arda,Villanova sull'Arda,village,45.026005,9.9970611
+Zerba,Zerba,village,44.666153,9.287164
+Zerba,Cerreto,village,44.6492358,9.2947257
+Ziano Piacentino,Ziano Piacentino,village,45.001462,9.40156
+Ziano Piacentino,Vicobarone,village,44.9877212,9.3551164
+Ziano Piacentino,Calcinara,village,45.0073984,9.3851964
+Alta Val Tidone,Caminata,village,44.910359,9.30816
+Alta Val Tidone,Nibbiano,village,44.9051687,9.3287813
+Alta Val Tidone,Stadera,village,44.9313678,9.3199036
+Alta Val Tidone,Trebecco,village,44.8946089,9.3004423
+Alta Val Tidone,Trevozzo,village,44.95048,9.3931239
+Albareto,Albareto,village,44.446551,9.699977
+Bardi,Bardi,village,44.6322106,9.7312033
+Bedonia,Bedonia,village,44.5036306,9.6298851
+Berceto,Berceto,village,44.5106079,9.9896546
+Berceto,Casaselvatica,village,44.5494737,10.0380431
+Berceto,Ghiare di Berceto,village,44.5545985,9.9313898
+Berceto,Pagazzano,village,44.5655052,9.972524
+Bore,Bore,village,44.718658,9.792074
+Bore,Castiglione dei Turchi,village,44.7112933,9.8424007
+Busseto,Busseto,village,44.9809569,10.0424746
+Busseto,Frescarolo,village,44.9778605,10.0798051
+Busseto,Madonna Prati,village,44.9676275,10.0855887
+Busseto,Samboseto,village,44.9556373,10.1275356
+Calestano,Calestano,village,44.6007,10.1229945
+Collecchio,Ozzano Taro,village,44.7098232,10.1430765
+Collecchio,Gaiano,village,44.7252476,10.1738296
+Collecchio,Lemignano,village,44.7711928,10.2633709
+Colorno,Colorno,village,44.9265322,10.377117
+Colorno,Mazzabue,village,44.9045973,10.4120562
+Colorno,Copermio,village,44.9377443,10.4028982
+Compiano,Compiano,village,44.4960492,9.6620789
+Corniglio,Bosco di Corniglio,village,44.4461409,10.0358148
+Corniglio,Corniglio,village,44.4758995,10.0889264
+Felino,Felino,village,44.6965871,10.2372047
+Fidenza,Pieve Cusignano,village,44.7820808,10.0605612
+Fontanellato,Fontanellato,village,44.8822638,10.1729422
+Fontanellato,Albareto,village,44.8725155,10.2143253
+Fontanellato,Priorato,village,44.8741121,10.1628956
+Fontanellato,Paroletta,village,44.8982359,10.1605014
+Fontevivo,Fontevivo,village,44.858765,10.17518
+Fornovo di Taro,Fornovo di Taro,village,44.6919621,10.1009854
+Fornovo di Taro,Vallezza,village,44.6582513,10.1579863
+Fornovo di Taro,Riccò di Fornovo,village,44.7015416,10.1239948
+Langhirano,Pilastro,village,44.6808623,10.2883953
+Langhirano,Pastorello,village,44.5658817,10.2275626
+Langhirano,Torrechiara,village,44.656766,10.2781141
+Langhirano,Tiorre,village,44.6678612,10.263822
+Langhirano,Cascinapiano,village,44.629918,10.2718864
+Langhirano,Arola,village,44.6719774,10.2841385
+Lesignano de' Bagni,Lesignano de' Bagni,village,44.6434282,10.3004841
+Lesignano de' Bagni,Mulazzano,village,44.6096582,10.3124871
+Lesignano de' Bagni,Santa Maria del Piano,village,44.655055,10.3175126
+Medesano,Medesano,village,44.7567386,10.1398311
+Medesano,Sant'Andrea Bagni,village,44.7255176,10.088944
+Medesano,Ramiola,village,44.6982931,10.0888427
+Medesano,Varano Dei Marchesi,village,44.7530283,10.0323699
+Medesano,Felegara,village,44.725112,10.112324
+Montechiarugolo,Montechiarugolo,village,44.6934008,10.4224798
+Montechiarugolo,Monticelli Terme,village,44.7265026,10.3952777
+Montechiarugolo,Basilicanova,village,44.6970869,10.3533734
+Montechiarugolo,Basilicagoiano,village,44.7076292,10.4032878
+Montechiarugolo,Piazza,village,44.6888774,10.3729783
+Montechiarugolo,Tortiano,village,44.6796752,10.4110891
+Noceto,Cella,village,44.7674316,10.0874636
+Noceto,Ponte Taro,village,44.8240424,10.2120924
+Palanzano,Palanzano,village,44.4374371,10.1944619
+Palanzano,Ranzano,village,44.4590481,10.2496399
+Palanzano,Ruzzano,village,44.4802934,10.2816196
+Parma,Parma,village,43.7851615,-116.9432088
+Parma,Parma,village,36.613669,-89.8164743
+Parma,Parma,village,42.2583711,-84.5996885
+Parma,Corcagnano,village,44.7209797,10.3053104
+Parma,Alberi di Vigatto,village,44.7474897,10.3337697
+Parma,Parma,village,52.0545875,19.99592
+Parma,Pizzolese,village,44.8691444,10.3645919
+Parma,Vicopò,village,44.8140974,10.3678105
+Parma,Beneceto,village,44.8136103,10.3824446
+Parma,Marore,village,44.7727759,10.3567247
+Parma,Porporano,village,44.7545362,10.3500385
+Parma,Martorano,village,44.7580164,10.4119825
+Parma,Vicofertile,village,44.7848482,10.2582798
+Parma,Vigatto,village,44.7206441,10.3303243
+Parma,Panocchia,village,44.6787491,10.3103886
+Parma,San Prospero Parmense,village,44.778375,10.398808
+Parma,Pedrignano,village,44.8314535,10.3777452
+Parma,Botteghino,village,44.7483944,10.3618719
+Parma,Castelnovo,village,44.8664191,10.3272453
+Parma,San Donato,village,44.7998124,10.3950426
+Parma,Valera,village,44.799253,10.2848985
+Parma,Fraore,village,44.819555,10.2612586
+Parma,Pilastrello,village,44.7329748,10.3725792
+Pellegrino Parmense,Pellegrino Parmense,village,44.7331681,9.9275557
+Pellegrino Parmense,Iggio,village,44.7436343,9.8743116
+Roccabianca,Roccabianca,village,45.009369,10.219378
+Roccabianca,Ragazzola,village,45.0102089,10.1915051
+Roccabianca,Fontanelle,village,44.9703156,10.2155402
+Sala Baganza,Sala Baganza,village,44.7139495,10.2263338
+Salsomaggiore Terme,Salsominore,village,44.8265011,9.9744974
+Salsomaggiore Terme,Sivizzano,village,44.7874724,9.9856023
+Salsomaggiore Terme,Tabiano Castello,village,44.7924826,10.0252989
+Salsomaggiore Terme,Contignaco,village,44.7801611,9.9585444
+Salsomaggiore Terme,Bagni di Tabiano,village,44.8057428,10.0176873
+Salsomaggiore Terme,Bargone,village,44.8187057,10.0171566
+Salsomaggiore Terme,Banzola,village,44.7689042,10.0153806
+Salsomaggiore Terme,San Vittore,village,44.7653075,9.9879892
+San Secondo Parmense,San Secondo Parmense,village,44.9201605,10.229558
+San Secondo Parmense,Castell'Aicardi,village,44.9076091,10.2095057
+San Secondo Parmense,Copezzato,village,44.9363663,10.2504699
+Solignano,Solignano,village,44.613057,9.97548
+Solignano,Masereto,village,44.6387724,9.962391
+Solignano,Fosio,village,44.6658576,10.0039976
+Soragna,Soragna,village,44.9281878,10.1235973
+Soragna,Castellina San Pietro,village,44.9151187,10.1085956
+Soragna,Carzeto,village,44.9382615,10.1629639
+Soragna,Diolo,village,44.965905,10.1481737
+Terenzo,Terenzo,village,44.609958,10.089682
+Terenzo,Cazzola,village,44.6084446,10.0412465
+Terenzo,Boschi di Bardone,village,44.6339925,10.0786927
+Terenzo,Palmia,village,44.6433179,10.1283055
+Terenzo,Marzano,village,44.6316865,10.1384323
+Terenzo,Selva Grossa,village,44.6119363,10.0112913
+Terenzo,Viola,village,44.6105356,10.0277082
+Tizzano Val Parma,Tizzano Val Parma,village,44.5205442,10.1991991
+Tizzano Val Parma,Lagrimone,village,44.4946274,10.2392053
+Tornolo,Tornolo,village,44.485251,9.625274
+Torrile,Torrile,village,44.921454,10.3261384
+Torrile,San Polo,village,44.8902978,10.3550043
+Torrile,Rivarolo,village,44.9040198,10.3152821
+Traversetolo,Mamiano,village,44.6749229,10.3435082
+Traversetolo,Vignale,village,44.6391808,10.3998704
+Traversetolo,Bannone,village,44.6598627,10.3619702
+Valmozzola,Mormorola,village,44.568456,9.883279
+Varano de' Melegari,Varano de' Melegari,village,44.68806,10.011479
+Varsi,Varsi,village,44.662157,9.846676
+Sissa Trecasali,Sissa,village,44.9601314,10.2598395
+Sissa Trecasali,Trecasali,village,44.9362237,10.2702605
+Sissa Trecasali,Gramignazzo,village,44.9868751,10.2536056
+Sissa Trecasali,Torricella,village,44.9853674,10.2828152
+Sissa Trecasali,Coltaro,village,44.9666772,10.319701
+Sissa Trecasali,Palasone,village,44.955151,10.2423053
+Polesine Zibello,Polesine Parmense,village,45.018108,10.0881543
+Polesine Zibello,Zibello,village,45.018469,10.129676
+Polesine Zibello,Pieveottoville,village,45.0130792,10.1542883
+Polesine Zibello,Vidalenzo,village,45.0152858,10.0462079
+Sorbolo Mezzani,Mezzano Superiore,village,44.93295,10.4230941
+Sorbolo Mezzani,Coenzo,village,44.9005133,10.4666607
+Sorbolo Mezzani,Casale,village,44.9214271,10.4375689
+Sorbolo Mezzani,Mezzano Inferiore,village,44.9125357,10.4626633
+Sorbolo Mezzani,Casaltone,village,44.8216204,10.4385457
+Albinea,Albinea,village,44.6201821,10.6019259
+Albinea,Borzano,village,44.5995993,10.6361443
+Albinea,Montericco,village,44.6103942,10.6068036
+Bagnolo in Piano,Bagnolo in Piano,village,44.762967,10.673293
+Bagnolo in Piano,San Michele della Fossa,village,44.7853495,10.7099612
+Bagnolo in Piano,Pieve Rossa,village,44.7794158,10.6837146
+Bagnolo in Piano,San Tommaso della Fossa,village,44.7952069,10.6844941
+Baiso,Baiso,village,44.4968268,10.6016783
+Baiso,Debbia,village,44.427076,10.6327433
+Baiso,Levizzano,village,44.4659113,10.6310421
+Baiso,San Romano,village,44.5209321,10.6533667
+Baiso,Visignolo,village,44.5244276,10.6275672
+Baiso,San Cassiano,village,44.4312845,10.6223644
+Bibbiano,Bibbiano,village,44.6634303,10.4727188
+Bibbiano,Barco,village,44.6881805,10.4933834
+Boretto,Boretto,village,44.90187,10.554287
+Brescello,Brescello,village,44.9012244,10.515728
+Brescello,Lentigione,village,44.8670978,10.471227
+Brescello,Sorbolo a Levante,village,44.8460708,10.46223
+Cadelbosco di Sopra,Cadelbosco di Sopra,village,44.7633191,10.5951823
+Cadelbosco di Sopra,Cadelbosco di Sotto,village,44.8027264,10.61737
+Cadelbosco di Sopra,Seta,village,44.8049219,10.6385979
+Cadelbosco di Sopra,Argine,village,44.7824657,10.6379281
+Campagnola Emilia,Campagnola Emilia,village,44.83927,10.757093
+Campagnola Emilia,Cognento,village,44.8184551,10.7467355
+Campegine,Campegine,village,44.7817335,10.5284188
+Campegine,Caprara,village,44.7812526,10.5079284
+Carpineti,Carpineti,village,44.4559609,10.5196982
+Carpineti,Marola,village,44.4854804,10.4848915
+Carpineti,Pantano,village,44.4851601,10.5126698
+Carpineti,Poiago,village,44.4623316,10.5378218
+Carpineti,Valestra,village,44.4558995,10.5845577
+Carpineti,Pontone,village,44.4251997,10.4892408
+Carpineti,Pianzano,village,44.460205,10.5519598
+Carpineti,Savognatica,village,44.4406642,10.5242946
+Carpineti,Bebbio,village,44.428603,10.5881204
+Carpineti,Colombaia sul Secchia,village,44.421154,10.5434082
+Carpineti,Casteldaldo,village,44.4388308,10.5817356
+Carpineti,Onfiano,village,44.4839013,10.5499169
+Casalgrande,Veggia,village,44.5489541,10.7664193
+Casalgrande,Sant'Antonino,village,44.5571303,10.7577601
+Casalgrande,Dinazzano,village,44.5719576,10.7455155
+Casalgrande,Salvaterra,village,44.60129,10.7663936
+Casalgrande,Villalunga,village,44.5670516,10.7640467
+Casalgrande,Casalgrande Alto,village,44.5760414,10.7296172
+Casina,Casina,village,44.5113388,10.4997852
+Casina,Trinità,village,44.5305,10.4157917
+Casina,Cortogno,village,44.5337166,10.4732318
+Casina,Pianzo,village,44.5348868,10.4379879
+Casina,Migliara - Boastra,village,44.5021404,10.4838404
+Casina,Leguigno,village,44.5125319,10.4512382
+Casina,Paullo,village,44.5489498,10.504948
+Casina,Giandeto,village,44.497818,10.5360859
+Castellarano,Roteglia,village,44.4845972,10.6838588
+Castellarano,Montebabbio,village,44.5499549,10.6908933
+Castellarano,San Valentino,village,44.5241423,10.7002259
+Castellarano,Tressano,village,44.5328794,10.7522748
+Castellarano,Cadiroggio,village,44.5491041,10.7430228
+Castelnovo di Sotto,Castelnovo di Sotto,village,44.8108626,10.5632954
+Castelnovo di Sotto,San Savino,village,44.8061967,10.5891926
+Castelnovo di Sotto,Cogruzzo,village,44.8265242,10.5833081
+Castelnovo di Sotto,Meletole,village,44.8467906,10.5830326
+Castelnovo ne' Monti,Gombio,village,44.4996854,10.4360313
+Castelnovo ne' Monti,Gatta,village,44.4068924,10.4664014
+Castelnovo ne' Monti,Felina,village,44.451849,10.4577062
+Castelnovo ne' Monti,Campolungo,village,44.4286621,10.4306613
+Castelnovo ne' Monti,Garfagnolo,village,44.4155745,10.3629838
+Castelnovo ne' Monti,Costa de' Grassi,village,44.4035417,10.3753435
+Castelnovo ne' Monti,Frascaro,village,44.4411173,10.3781299
+Castelnovo ne' Monti,Villaberza,village,44.4770494,10.4343066
+Castelnovo ne' Monti,Montecastagneto,village,44.4794905,10.425542
+Castelnovo ne' Monti,Cagnola,village,44.4537631,10.3981432
+Castelnovo ne' Monti,Ginepreto,village,44.404539,10.4124266
+Castelnovo ne' Monti,Vologno,village,44.3961487,10.4217038
+Cavriago,Cavriago,village,44.6941945,10.5268984
+Canossa,Borzano d'Enza,village,44.525748,10.3679764
+Canossa,Ceredolo dei Coppi,village,44.5575545,10.4497888
+Canossa,Selvapiana,village,44.5630597,10.4126496
+Canossa,Vedriano,village,44.5134588,10.3988547
+Canossa,Rossena,village,44.5821033,10.4259536
+Canossa,Ciano d'Enza,village,44.5966405,10.4113919
+Canossa,Roncaglio,village,44.5327528,10.3919396
+Canossa,Compiano d'Enza,village,44.526867,10.35375
+Canossa,Canossa,village,44.5758404,10.4557052
+Canossa,Monchio delle Olle,village,44.5429092,10.410593
+Correggio,Fazzano,village,44.7468048,10.7661057
+Correggio,Prato,village,44.7109828,10.7489842
+Correggio,Villaggio Industriale,village,44.7684439,10.8217008
+Correggio,Fosdondo,village,44.7741228,10.7326184
+Correggio,San Biagio,village,44.7478778,10.7962164
+Correggio,Mandriolo Inferiore,village,44.7868082,10.7865072
+Correggio,San Martino di Correggio,village,44.7782945,10.8021996
+Correggio,Mandrio,village,44.793184,10.8062281
+Correggio,Budrio,village,44.7528255,10.7368923
+Correggio,Canolo,village,44.7978252,10.7485146
+Correggio,Lemizzone,village,44.7345669,10.7513674
+Correggio,San Prospero di Correggio,village,44.7681473,10.7519287
+Fabbrico,Fabbrico,village,44.8720906,10.8100618
+Gattatico,Gattatico,village,44.7956839,10.4445566
+Gattatico,Praticello,village,44.8051065,10.4750873
+Gattatico,Taneto,village,44.7727853,10.45411
+Gattatico,Olmo,village,44.820564,10.4946563
+Gattatico,Nocetolo,village,44.8040829,10.5157829
+Gualtieri,Gualtieri,village,44.9050126,10.6302265
+Gualtieri,Santa Vittoria,village,44.8552984,10.6357694
+Gualtieri,Pieve Saliceto,village,44.8977748,10.5989283
+Guastalla,San Rocco,village,44.8742396,10.6576675
+Guastalla,Tagliata,village,44.9314514,10.6803932
+Guastalla,San Girolamo,village,44.919753,10.7291918
+Guastalla,San Martino di Guastalla,village,44.9127189,10.6858157
+Luzzara,Luzzara,village,44.961655,10.6870685
+Luzzara,Villarotta,village,44.9238011,10.7429095
+Luzzara,Codisotto,village,44.9808327,10.7272752
+Luzzara,Casoni,village,44.9391755,10.73732
+Montecchio Emilia,Villa Aiola,village,44.7154165,10.4795836
+Novellara,San Bernardino,village,44.8641283,10.6704581
+Novellara,San Giovanni della Fossa,village,44.8141357,10.7037079
+Novellara,Bernolda,village,44.8755556,10.7596749
+Novellara,Santa Maria della Fossa,village,44.8022974,10.6943232
+Poviglio,Poviglio,village,44.8416698,10.541615
+Poviglio,San Sisto,village,44.8469521,10.4979021
+Poviglio,Fodico,village,44.8578613,10.5608679
+Quattro Castella,Quattro Castella,village,44.6356048,10.4724248
+Quattro Castella,Roncolo,village,44.6343119,10.4956953
+Quattro Castella,Montecavolo,village,44.6326322,10.5378878
+Quattro Castella,Salvarano,village,44.6190046,10.5166192
+Quattro Castella,Puianello,village,44.62575,10.5628532
+Reggiolo,Reggiolo,village,44.9185339,10.8042114
+Reggiolo,Villanova,village,44.916339,10.8576434
+Reggiolo,Brugneto,village,44.9225044,10.7512146
+Rio Saliceto,Rio Saliceto,village,44.8100097,10.8030993
+Rio Saliceto,Ca' de' Frati,village,44.8431435,10.8194252
+Rolo,Rolo,village,44.8866561,10.8582083
+Rubiera,San Faustino,village,44.6790907,10.7810463
+Rubiera,Fontana,village,44.6777619,10.802279
+Rubiera,Sant'Agata Casale,village,44.7014163,10.7971271
+San Martino in Rio,Trignano,village,44.7350813,10.8038663
+San Martino in Rio,Stiolo,village,44.7151457,10.7840004
+San Martino in Rio,San Martino in Rio,village,44.7328018,10.7839876
+San Martino in Rio,Gazzata,village,44.7022331,10.7659806
+San Polo d'Enza,San Polo d'Enza,village,44.6258624,10.4222874
+San Polo d'Enza,Barcaccia,village,44.6640365,10.4300564
+San Polo d'Enza,Grassano,village,44.593609,10.4487868
+Sant'Ilario d'Enza,Calerno,village,44.7489292,10.4867673
+Scandiano,Arceto,village,44.6195213,10.7228948
+Scandiano,Pratissolo,village,44.6031353,10.6758844
+Scandiano,Fellegara,village,44.610951,10.6934336
+Scandiano,Bosco,village,44.6291825,10.6667467
+Scandiano,Chiozza,village,44.5964373,10.7074244
+Scandiano,San Ruffino,village,44.5832051,10.7038529
+Scandiano,Ventoso,village,44.5842347,10.6868118
+Scandiano,Ca' de Caroli,village,44.5872177,10.6740629
+Scandiano,Iano,village,44.5891905,10.6680558
+Scandiano,Rondinara,village,44.551224,10.6624345
+Scandiano,Cacciola,village,44.6320164,10.7215833
+Toano,Toano,village,44.376357,10.561197
+Toano,Cerredolo,village,44.4025019,10.6180641
+Toano,Cavola,village,44.4015329,10.5318321
+Toano,Vogno,village,44.3678036,10.493573
+Toano,Monzone,village,44.3560705,10.5278383
+Toano,Cerrè Marabino,village,44.3860388,10.4939114
+Toano,Corneto,village,44.4039909,10.5606073
+Toano,Manno,village,44.3882672,10.5653451
+Toano,Massa,village,44.3818287,10.5970779
+Vetto,Vetto,village,44.4843413,10.3414194
+Vetto,Rosano,village,44.4583124,10.3832937
+Vetto,Piagnolo,village,44.5124097,10.3513261
+Vetto,Crovara,village,44.499692,10.3750857
+Vetto,Santo Stefano di Pineto,village,44.4685711,10.3858793
+Vetto,Cola,village,44.4518087,10.3593056
+Vetto,Gottano,village,44.4623349,10.3088149
+Vezzano sul Crostolo,Vezzano sul Crostolo,village,44.6025837,10.5468531
+Vezzano sul Crostolo,Pecorile,village,44.5869593,10.5084382
+Vezzano sul Crostolo,La Vecchia,village,44.5668904,10.5287385
+Vezzano sul Crostolo,Montalto,village,44.5492663,10.5573718
+Vezzano sul Crostolo,Casola Canossa,village,44.580203,10.4969382
+Vezzano sul Crostolo,Paderna,village,44.5699348,10.5179552
+Viano,Viano,village,44.5437293,10.6216195
+Viano,Castello di Querciola,village,44.5465541,10.5869682
+Viano,Regnano,village,44.5625256,10.578311
+Viano,San Giovanni di Querciola,village,44.5281758,10.5631112
+Viano,San Pietro di Querciola,village,44.5367522,10.5967227
+Viano,Casola Querciola,village,44.5716433,10.5635467
+Villa Minozzo,Villa Minozzo,village,44.365056,10.465995
+Villa Minozzo,Gazzano,village,44.2738196,10.5036115
+Villa Minozzo,Civago,village,44.2537054,10.4752504
+Villa Minozzo,Gova,village,44.3352887,10.514448
+Villa Minozzo,Cervarolo,village,44.2770867,10.478889
+Villa Minozzo,Febbio,village,44.3059694,10.4331885
+Villa Minozzo,Cerrè Sologno,village,44.3586795,10.3631829
+Villa Minozzo,Sologno,village,44.3638342,10.3927834
+Villa Minozzo,Carniana,village,44.3892972,10.4663003
+Villa Minozzo,Costabona,village,44.3478237,10.4920722
+Villa Minozzo,Secchio,village,44.3324872,10.4730541
+Villa Minozzo,Carù,village,44.3640658,10.3760786
+Villa Minozzo,Minozzo,village,44.3572506,10.4328489
+Villa Minozzo,Morsiano,village,44.3051286,10.5069966
+Villa Minozzo,Novellano,village,44.3031443,10.4832559
+Villa Minozzo,Poiano,village,44.3828332,10.4355995
+Villa Minozzo,Coriano,village,44.3290656,10.4382933
+Villa Minozzo,Asta,village,44.3012562,10.457768
+Ventasso,Busana,village,44.3688185,10.3239126
+Ventasso,Ligonchio,village,44.316254,10.341393
+Ventasso,Collagna,village,44.3472955,10.2762502
+Ventasso,Cervarezza,village,44.3887769,10.3308975
+Ventasso,Le Vaglie,village,44.3207447,10.316784
+Ventasso,Cerreto Alpi,village,44.3220411,10.2516063
+Ventasso,Cerreto Laghi,village,44.2979245,10.2438935
+Ventasso,Succiso Nuovo,village,44.3621616,10.1947454
+Ventasso,Miscoso,village,44.3790176,10.177337
+Ventasso,Pieve San Vincenzo,village,44.38919,10.2160566
+Ventasso,Vallisnera,village,44.3633438,10.2633159
+Ventasso,Valbona,village,44.3522959,10.2480193
+Ventasso,Ospitaletto,village,44.2984997,10.3161574
+Ventasso,Ramiseto,village,44.412375,10.271507
+Ventasso,Acquabona,village,44.3562611,10.2909472
+Ventasso,Nismozza,village,44.3635346,10.3028367
+Ventasso,Talada,village,44.3851962,10.3492917
+Ventasso,Montecagno,village,44.332383,10.3659874
+Ventasso,Caprile,village,44.3344708,10.3348528
+Ventasso,Cinquecerri,village,44.3498941,10.3290062
+Ventasso,Piolo,village,44.3308708,10.3549152
+Ventasso,Nigone,village,44.4211976,10.2992515
+Ventasso,Frassinedolo,village,44.3968192,10.347586
+Ventasso,Gazzolo,village,44.4376732,10.2959422
+Ventasso,Camporella,village,44.4214347,10.2338003
+Ventasso,Cereggio,village,44.4429306,10.277879
+Ventasso,Casalino,village,44.3217533,10.361582
+Bastiglia,Bastiglia,village,44.726969,10.9986
+Bastiglia,San Clemente,village,44.7139473,11.0055443
+Bomporto,Solara,village,44.7709237,11.0928596
+Bomporto,Gorghetto,village,44.7688193,11.0688838
+Bomporto,San Michele,village,44.7727194,11.0749649
+Bomporto,Sorbara,village,44.7463742,11.0079161
+Bomporto,Villavara,village,44.6898178,11.0064208
+Campogalliano,Bottega Panzano,village,44.7219071,10.8494048
+Campogalliano,Panzano,village,44.7264066,10.8352829
+Campogalliano,Saliceto Buzzalino,village,44.7000934,10.8645454
+Campogalliano,Campogalliano,village,44.6905118,10.8407336
+Camposanto,Camposanto,village,44.7901008,11.1378084
+Carpi,Santa Croce,village,44.7595308,10.8586215
+Carpi,Gargallo,village,44.7434944,10.8596342
+Carpi,Fossoli,village,44.8224156,10.889199
+Carpi,San Marino di Carpi,village,44.8083699,10.9131115
+Carpi,Budrione,village,44.8162719,10.8581828
+Carpi,Cortile di Carpi,village,44.7938642,10.9677945
+Carpi,Migliarina,village,44.8049628,10.8366045
+Castelfranco Emilia,Piumazzo,village,44.546263,11.069717
+Castelfranco Emilia,Cavazzona,village,44.5753676,11.1163401
+Castelfranco Emilia,Rastellino,village,44.6333495,11.0977803
+Castelfranco Emilia,Gaggio in Piano,village,44.634818,11.0131193
+Castelfranco Emilia,Panzano,village,44.6209385,11.0405308
+Castelfranco Emilia,Recovato,village,44.6383523,11.0631631
+Castelfranco Emilia,Manzolino,village,44.5944553,11.1004474
+Castelfranco Emilia,Riolo,village,44.6161566,11.0880526
+Castelnuovo Rangone,Montale Rangone,village,44.5756811,10.909385
+Castelnuovo Rangone,Cavidole,village,44.5625452,10.9585471
+Castelnuovo Rangone,San Lorenzo,village,44.5762472,10.965699
+Castelvetro di Modena,Castelvetro di Modena,village,44.5034615,10.9432999
+Castelvetro di Modena,Settecani,village,44.5421261,10.9563225
+Castelvetro di Modena,Solignano Nuovo,village,44.5270724,10.9253401
+Castelvetro di Modena,Cà di Sola,village,44.5307211,10.9553662
+Castelvetro di Modena,Levizzano Rangone,village,44.48606,10.9076781
+Cavezzo,Cavezzo,village,44.8365,11.0294353
+Cavezzo,Disvetro,village,44.8587577,10.9996359
+Cavezzo,Motta,village,44.8285733,10.9859884
+Concordia sulla Secchia,Concordia sulla Secchia,village,44.913174,10.983297
+Concordia sulla Secchia,Vallalta,village,44.9439429,11.009498
+Concordia sulla Secchia,Fossa di Concordia,village,44.9230032,11.0355655
+Concordia sulla Secchia,San Giovanni Battista,village,44.9090028,10.9801694
+Concordia sulla Secchia,Santa Caterina,village,44.9263192,10.9788649
+Fanano,Fanano,village,44.2077372,10.7938365
+Fanano,Fellicarolo,village,44.1886437,10.7554858
+Fanano,Canevare,village,44.2004867,10.7623112
+Fanano,Serrazzone,village,44.2060114,10.8105899
+Fanano,Ospitale,village,44.1659199,10.7890543
+Fanano,Trignano,village,44.2087158,10.8420554
+Fanano,Trentino,village,44.2372067,10.8200706
+Finale Emilia,Casumaro,village,44.8378428,11.362765
+Finale Emilia,Massa Finalese,village,44.8500807,11.2146431
+Finale Emilia,Canaletto,village,44.8391579,11.2431209
+Finale Emilia,Reno Finalese,village,44.8333124,11.3188007
+Fiorano Modenese,Spezzano,village,44.5328443,10.8427564
+Fiorano Modenese,Ubersetto,village,44.5485991,10.8576077
+Fiumalbo,Fiumalbo,village,44.1799513,10.6477331
+Fiumalbo,Dogana Nuova,village,44.1642723,10.6406606
+Fiumalbo,Faidello,village,44.1572353,10.6474267
+Fiumalbo,Ronchi,village,44.1573057,10.6104983
+Fiumalbo,Lago,village,44.1713705,10.6461309
+Fiumalbo,Frescarolo,village,44.1803121,10.6602388
+Fiumalbo,Ca' di Gallo,village,44.1518463,10.6074582
+Fiumalbo,Rotari,village,44.1655514,10.6172948
+Fiumalbo,Doccia del Cimone,village,44.1905139,10.67221
+Fiumalbo,La Valle,village,44.1868517,10.6416241
+Fiumalbo,Montalecchio,village,44.1713076,10.6626716
+Fiumalbo,Fenecchio,village,44.175004,10.6456352
+Fiumalbo,Versurone,village,44.1784335,10.6540574
+Formigine,Casinalbo,village,44.593856,10.8578234
+Formigine,Colombaro,village,44.5492607,10.8994321
+Formigine,Corlo,village,44.5825549,10.8228346
+Formigine,Magreta,village,44.5979855,10.7966114
+Formigine,Colombarone,village,44.608883,10.7961155
+Formigine,Ponte Fossa,village,44.5692824,10.8166882
+Formigine,Tabina,village,44.59898,10.8160704
+Frassinoro,Frassinoro,village,44.2957717,10.573046
+Frassinoro,Rovolo,village,44.2932924,10.5201885
+Frassinoro,Fontanaluccia,village,44.2649161,10.5155857
+Frassinoro,Madonna di Pietravolta,village,44.2590234,10.5320302
+Frassinoro,San Pellegrino In Alpe,village,44.1899621,10.480678
+Frassinoro,Cargedolo,village,44.273243,10.5699939
+Frassinoro,Piandelagotti,village,44.2269437,10.517752
+Frassinoro,Riccovolto,village,44.2581477,10.5511695
+Frassinoro,Romanoro,village,44.3110574,10.5239539
+Frassinoro,Sassatella,village,44.2992821,10.5951519
+Frassinoro,Spervara di sotto,village,44.2823562,10.5826923
+Frassinoro,Roncatello di sopra,village,44.2484533,10.5091586
+Guiglia,Guiglia,village,44.4281931,10.9569048
+Guiglia,Rocchetta,village,44.4195022,10.9412392
+Guiglia,Rocca Malatina,village,44.3894123,10.9664532
+Guiglia,Castellino delle Formiche,village,44.3766206,10.9459487
+Guiglia,Samone,village,44.3654004,10.9486428
+Guiglia,Gainazzo,village,44.3677518,10.9350799
+Guiglia,Monteorsello,village,44.411516,10.9653829
+Guiglia,Pieve di Trebbio,village,44.3994811,10.9498002
+Lama Mocogno,Lama Mocogno,village,44.3072628,10.7317768
+Lama Mocogno,Cadignano,village,44.3284208,10.7194627
+Lama Mocogno,Mocogno,village,44.3103721,10.714194
+Lama Mocogno,Montecenere,village,44.3118728,10.7671492
+Lama Mocogno,Vaglio,village,44.2931998,10.7259296
+Lama Mocogno,Borra,village,44.2948588,10.7104002
+Lama Mocogno,Sassostorno,village,44.2676998,10.6973419
+Lama Mocogno,La Santona,village,44.2720632,10.6699189
+Lama Mocogno,Barigazzo,village,44.2652852,10.65116
+Lama Mocogno,Borra di Silano,village,44.3064377,10.6934282
+Lama Mocogno,Piane di Mocogno,village,44.2868786,10.6659196
+Lama Mocogno,Pianorso,village,44.3407834,10.7002669
+Lama Mocogno,La Coda,village,44.3001876,10.702706
+Maranello,Pozza,village,44.5272802,10.8939487
+Maranello,Bell'Italia,village,44.5368982,10.8791637
+Maranello,Gorzano,village,44.5139416,10.8793539
+Maranello,Torre Maina,village,44.4977863,10.8741959
+Maranello,San Venanzio,village,44.4980343,10.8577608
+Marano sul Panaro,Marano sul Panaro,village,44.4558978,10.9663838
+Medolla,Medolla,village,44.846673,11.0676
+Medolla,Villafranca,village,44.8342171,11.0613515
+Medolla,Camurana,village,44.8629753,11.0786782
+Mirandola,Tramuschio,village,44.958015,11.0903442
+Mirandola,Mortizzuolo,village,44.8771649,11.1304302
+Mirandola,Quarantoli,village,44.9217175,11.0956992
+Mirandola,Gavello,village,44.9252202,11.1797849
+Mirandola,San Giacomo Roncole,village,44.863568,11.0629127
+Mirandola,San Martino Spino,village,44.9357147,11.2346804
+Modena,Modena,village,39.9617355,-75.8010997
+Modena,Portile,village,44.581703,10.9368165
+Modena,San Damaso,village,44.6025608,10.9709025
+Modena,Baggiovara,village,44.6071324,10.86322
+Modena,Ganaceto,village,44.7091502,10.8996807
+Modena,Lesignana,village,44.684552,10.8933305
+Modena,Villanova,village,44.6892736,10.9156036
+Modena,Cittanova,village,44.6464053,10.8430234
+Modena,Marzaglia,village,44.6515031,10.8064149
+Modena,Marzaglia Nuova,village,44.6412982,10.8053142
+Modena,Cognento,village,44.6375948,10.8684742
+Modena,San Donnino,village,44.586033,10.9718573
+Modena,Vaciglio,village,44.6125109,10.9386219
+Modena,Albareto,village,44.6899327,10.9665756
+Modena,Tre Olmi,village,44.6694502,10.8683377
+Montecreto,Montecreto,village,44.245955,10.717602
+Montecreto,Acquaria,village,44.2789119,10.7642513
+Montefiorino,Montefiorino,village,44.3580054,10.6229898
+Montefiorino,Casola,village,44.3391106,10.613966
+Montefiorino,Farneta,village,44.3518365,10.5715264
+Montefiorino,Gusciola,village,44.3504409,10.5878374
+Montefiorino,Macognano,village,44.3547357,10.5444384
+Montefiorino,Rubbiano,village,44.3578376,10.6093625
+Montese,Montese,village,44.2685063,10.9411886
+Montese,Salto,village,44.2827498,10.9269753
+Montese,San Martino,village,44.2782451,10.9159571
+Montese,San Giacomo,village,44.2872425,10.9052493
+Montese,Iola,village,44.2459089,10.9518966
+Montese,Maserno,village,44.2531152,10.9302069
+Montese,Montalto Lastrelle,village,44.3134505,10.9918906
+Montese,Castelluccio,village,44.2272996,10.898107
+Montese,Semelano,village,44.3121637,10.9659353
+Nonantola,Rubbiara,village,44.6508176,11.0404287
+Nonantola,Bagazzano,village,44.6573016,11.0235113
+Nonantola,Campazzo,village,44.7011267,11.0365028
+Nonantola,Casette,village,44.6898539,11.0490579
+Nonantola,La Grande,village,44.7180632,11.0652074
+Nonantola,Redù,village,44.6543701,11.0694571
+Nonantola,Via Larga,village,44.6725826,11.0684085
+Novi di Modena,Rovereto sulla Secchia,village,44.8414006,10.9548459
+Novi di Modena,Sant'Antonio in Mercadello,village,44.8651496,10.9507565
+Palagano,Palagano,village,44.320957,10.6461
+Palagano,Boccassuolo,village,44.2831072,10.6144877
+Palagano,Lama di Monchio,village,44.3789122,10.6721051
+Palagano,Monchio,village,44.3851012,10.6493608
+Palagano,Costrignano,village,44.3641095,10.6693285
+Palagano,Susano,village,44.3555905,10.6649649
+Pavullo nel Frignano,Frassineti,village,44.3479249,10.7772567
+Pavullo nel Frignano,Benedello,village,44.3661549,10.8661524
+Pavullo nel Frignano,Iddiano,village,44.3521758,10.8681671
+Pavullo nel Frignano,Castagneto,village,44.3430567,10.8912365
+Pavullo nel Frignano,Verica,village,44.3275783,10.903993
+Pavullo nel Frignano,Montebonello,village,44.3727712,10.8001419
+Pavullo nel Frignano,Sant'Antonio di Pavullo,village,44.366658,10.8371425
+Pavullo nel Frignano,Crocette,village,44.3517248,10.8486905
+Pavullo nel Frignano,Miceno,village,44.3497319,10.8147032
+Pavullo nel Frignano,Coscogno,village,44.3935245,10.8741923
+Pavullo nel Frignano,Monzone,village,44.3283719,10.7875973
+Pavullo nel Frignano,Olina,village,44.3047605,10.7821007
+Pievepelago,Pievepelago,village,44.204754,10.616601
+Pievepelago,Sant'Annapelago,village,44.1921803,10.5519216
+Pievepelago,Tagliole,village,44.1654333,10.599786
+Pievepelago,San Michele,village,44.2015369,10.6264797
+Pievepelago,Roccapelago,village,44.2049404,10.5903321
+Pievepelago,Sant'Andreapelago,village,44.2155171,10.6122347
+Polinago,Polinago,village,44.344758,10.723501
+Polinago,Gombola,village,44.3870712,10.7259275
+Polinago,Talbignano,village,44.4077901,10.6933462
+Polinago,Cassano,village,44.3968437,10.6883415
+Polinago,San Martino,village,44.3885134,10.6846639
+Polinago,Brandola,village,44.3333951,10.7432413
+Prignano sulla Secchia,Prignano sulla Secchia,village,44.4379426,10.6919848
+Prignano sulla Secchia,Saltino,village,44.4190457,10.6384339
+Prignano sulla Secchia,Montebaranzone,village,44.4779499,10.773187
+Prignano sulla Secchia,Morano,village,44.4009364,10.6809522
+Ravarino,Ravarino,village,44.7240342,11.099811
+Ravarino,Casoni,village,44.7232892,11.0543932
+Ravarino,Rami,village,44.730113,11.0801011
+Ravarino,La Villa,village,44.7434227,11.0931705
+Ravarino,Stuffione,village,44.7538358,11.1174586
+Riolunato,Riolunato,village,44.2299738,10.6515646
+Riolunato,Castello,village,44.2280407,10.661256
+Riolunato,Le Polle,village,44.2172087,10.6927253
+Riolunato,Centocroci,village,44.260555,10.6157647
+Riolunato,Serpiano,village,44.2538739,10.6318171
+Riolunato,Groppo,village,44.2351502,10.6421198
+Riolunato,Pezzuole,village,44.217071,10.6400453
+San Cesario sul Panaro,San Cesario sul Panaro,village,44.5611362,11.033218
+San Cesario sul Panaro,Altolà,village,44.5335201,11.0357448
+San Cesario sul Panaro,Sant'Anna,village,44.6001309,11.0175374
+San Felice sul Panaro,Rivara,village,44.8412533,11.1695235
+San Felice sul Panaro,Confine,village,44.8731767,11.1562071
+San Felice sul Panaro,Pavignane,village,44.8620426,11.1789683
+San Felice sul Panaro,San Biagio,village,44.8629835,11.1142816
+San Possidonio,San Possidonio,village,44.8920894,10.9961365
+San Possidonio,Ponte Rovere,village,44.8995427,11.0284691
+San Prospero,San Prospero,village,44.789671,11.0221
+San Prospero,San Pietro in Elda,village,44.7728248,11.0483045
+San Prospero,Staggia Modenese,village,44.8028836,11.0526039
+San Prospero,San Lorenzo della Pioppa,village,44.7612104,11.0036446
+San Prospero,San Martino Secchia,village,44.8087256,11.0135762
+Sassuolo,Montegibbio,village,44.5071116,10.7854485
+Sassuolo,San Michele dei Mucchietti,village,44.5089068,10.7451056
+Sassuolo,Salvarola Terme,village,44.518503,10.7678656
+Savignano sul Panaro,Savignano sul Panaro,village,44.4805382,11.0351093
+Savignano sul Panaro,Mulino di Savignano,village,44.4930754,11.0475054
+Savignano sul Panaro,Garofano,village,44.458204,11.0025599
+Savignano sul Panaro,Formica,village,44.4671936,11.0118511
+Savignano sul Panaro,La Torre,village,44.444358,10.9854577
+Serramazzoni,Serramazzoni,village,44.4224625,10.789147
+Serramazzoni,Farneta di Riccò,village,44.4314082,10.8470258
+Serramazzoni,Varana Campodolio,village,44.4525695,10.7623074
+Serramazzoni,Pompeano,village,44.3996531,10.7596992
+Serramazzoni,Ligorzano,village,44.4364172,10.7946042
+Serramazzoni,Faeto,village,44.4251844,10.7661431
+Serramazzoni,Selva,village,44.3958015,10.7924732
+Serramazzoni,Monfestino,village,44.4273739,10.8230443
+Serramazzoni,San Dalmazio,village,44.4152307,10.8499993
+Serramazzoni,Montagnana,village,44.4767762,10.8246973
+Serramazzoni,Casa Bartolacelli - Stella,village,44.4509775,10.7894067
+Sestola,Sestola,village,44.230455,10.771404
+Sestola,Castellaro,village,44.2581853,10.7763396
+Sestola,Rocchetta Sandri,village,44.2501445,10.8395685
+Sestola,Vesale,village,44.2572215,10.7924647
+Sestola,Casine,village,44.2736743,10.7950774
+Sestola,Roncoscaglia,village,44.2398328,10.7459593
+Sestola,Poggioraso,village,44.2351875,10.7814274
+Soliera,Sozzigalli,village,44.7477243,10.9786406
+Soliera,Limidi di Soliera,village,44.7618228,10.9246215
+Spilamberto,San Vito,village,44.557803,10.9743571
+Vignola,Campiglio,village,44.4716699,10.9756171
+Vignola,Pratomavore,village,44.4929359,10.9923882
+Vignola,Brodano,village,44.4943814,11.0203226
+Zocca,Zocca,village,44.3462404,10.9938171
+Zocca,Montombraro,village,44.379028,11.0084208
+Zocca,Ciano,village,44.4120664,11.0295814
+Zocca,Missano,village,44.351585,10.952382
+Zocca,Montalbano,village,44.3474092,10.9748777
+Zocca,Montecorone,village,44.3778213,10.9829958
+Zocca,Montetortore,village,44.3125714,11.0135439
+Zocca,Rosola,village,44.3242108,10.9727969
+Zocca,Verucchia,village,44.3330017,10.9892979
+Anzola dell'Emilia,Lavino di Mezzo,village,44.5330907,11.2297599
+Anzola dell'Emilia,Castelletto,village,44.5734857,11.1496547
+Anzola dell'Emilia,Santa Maria in Strada,village,44.5716079,11.1586459
+Anzola dell'Emilia,San Giacomo del Martignone,village,44.601227,11.2155786
+Argelato,Argelato,village,44.64157,11.34781
+Argelato,Funo di Argelato,village,44.593288,11.3670334
+Argelato,Volta Reno,village,44.6678049,11.3067287
+Baricella,Baricella,village,44.6461651,11.5332953
+Baricella,Mondonuovo,village,44.669198,11.599766
+Baricella,San Gabriele,village,44.6660696,11.5771439
+Baricella,Boschi,village,44.6918205,11.5570568
+Bentivoglio,Bentivoglio,village,44.6357918,11.4171933
+Bentivoglio,San Marino di Bentivoglio,village,44.6034337,11.4214092
+Bentivoglio,Santa Maria in Duno,village,44.630104,11.3969789
+Bentivoglio,Castagnolo Minore,village,44.6079275,11.3793192
+Bentivoglio,Saletto,village,44.6494566,11.4501517
+Bologna,Monte Donato,village,44.4617086,11.3564487
+Bologna,Frabazza,village,44.5397083,11.3944999
+Bologna,San Sisto,village,44.5199006,11.4010781
+Bologna,Quarto Superiore,village,44.5217379,11.418108
+Bologna,San Nicolò di Villola,village,44.5192053,11.3808508
+Bologna,Calamosco,village,44.5289971,11.3953053
+Bologna,Casteldebole,village,44.503553,11.2786925
+Bologna,Dozza,village,44.5283198,11.3656189
+Bologna,Rigosa,village,44.5109139,11.2395818
+Borgo Tossignano,Borgo Tossignano,village,44.2756903,11.5898435
+Borgo Tossignano,Codrignano,village,44.2948682,11.6434083
+Borgo Tossignano,Tossignano,village,44.2723851,11.6036084
+Budrio,Riccardina,village,44.5555894,11.5270039
+Budrio,Mezzolara,village,44.5901676,11.5645044
+Budrio,Vigorso,village,44.5383854,11.5034175
+Budrio,Prunaro,village,44.4923787,11.5125224
+Budrio,Bagnarola,village,44.5578179,11.4912062
+Budrio,Dugliolo,village,44.613443,11.5822958
+Budrio,Maddalena di Cazzano,village,44.5786714,11.4934944
+Budrio,Vedrana,village,44.5636402,11.5778066
+Budrio,Cento,village,44.5173431,11.5205491
+Calderara di Reno,Sacerno,village,44.5590466,11.2317121
+Calderara di Reno,Lippo,village,44.5362311,11.303093
+Calderara di Reno,Longara,village,44.5721352,11.3043927
+Calderara di Reno,Castel Campeggi,village,44.5925296,11.3097043
+Calderara di Reno,Bargellino,village,44.5455218,11.2628751
+Calderara di Reno,Tavernelle Emilia,village,44.5750547,11.235955
+Camugnano,Camugnano,village,44.170457,11.088812
+Camugnano,Baigno,village,44.1283292,11.0834198
+Camugnano,Bargi,village,44.12704,11.0592929
+Camugnano,Guzzano,village,44.1595054,11.0851126
+Camugnano,Mogne,village,44.15014,11.1179563
+Camugnano,San Damiano,village,44.1589118,11.1387789
+Camugnano,Trasserra,village,44.1677838,11.1484452
+Camugnano,Ponte di Verzuno,village,44.2030654,11.0578537
+Camugnano,Quercè,village,44.20051,11.1226693
+Camugnano,Burzanella,village,44.1972568,11.1194528
+Camugnano,Carpineta,village,44.1735807,11.0720453
+Camugnano,Pianacci,village,44.1330395,11.0467957
+Camugnano,Costozza,village,44.141966,11.0515655
+Camugnano,Stagno,village,44.1117662,11.0504705
+Camugnano,Greglio,village,44.199234,11.0933919
+Casalecchio di Reno,Riale,village,44.4840437,11.2452518
+Casalfiumanese,Casalfiumanese,village,44.296864,11.624022
+Casalfiumanese,San Martino in Pedriolo,village,44.3532254,11.5619452
+Casalfiumanese,Valsellustra,village,44.3276001,11.5784245
+Casalfiumanese,Sassoleone,village,44.2610511,11.4836838
+Castel d'Aiano,Castel d'Aiano,village,44.275859,10.999408
+Castel d'Aiano,Villa d'Aiano,village,44.2949401,10.9802203
+Castel d'Aiano,Rocca di Roffeno,village,44.2905438,11.0345258
+Castel d'Aiano,Sassomolare,village,44.2671556,10.9748503
+Castel d'Aiano,Labante,village,44.2609768,11.0359961
+Castel del Rio,Belvedere,village,44.2286556,11.4689892
+Castel del Rio,Castel del Rio,village,44.2142924,11.5040816
+Castel del Rio,Giugnola,village,44.2204046,11.451645
+Castel di Casio,Castel di Casio,village,44.162956,11.035811
+Castel di Casio,Suviana,village,44.1362386,11.0354818
+Castel di Casio,Berzantina,village,44.1587721,10.9800346
+Castel di Casio,Lizzo,village,44.1451186,11.0146512
+Castel di Casio,Prati di Castel di Casio,village,44.1777609,10.9830715
+Castel Guelfo di Bologna,Poggio Piccolo,village,44.4403544,11.6079488
+Castel Guelfo di Bologna,Castel Guelfo di Bologna,village,44.4311401,11.6774095
+Castel Guelfo di Bologna,Via Larga,village,44.4356736,11.6560261
+Castel Guelfo di Bologna,San Martino,village,44.4504146,11.6768478
+Castel Guelfo di Bologna,Palazza,village,44.4527631,11.6802126
+Castello d'Argile,Venezzano Mascarino,village,44.6849052,11.3387277
+Castello d'Argile,Castello d'Argile,village,44.6813212,11.2961688
+Castel Maggiore,Boschetto,village,44.5951895,11.3233544
+Castel Maggiore,Castiglia,village,44.5991314,11.318208
+Castel Maggiore,Primo Maggio,village,44.5542677,11.3536766
+Castel Maggiore,Sabbiuno,village,44.5700185,11.3917587
+Castel Maggiore,Trebbo di Reno,village,44.5559832,11.3193051
+Castel Maggiore,Garluda,village,44.5798962,11.3242377
+Castel San Pietro Terme,Casalecchio dei Conti,village,44.391286,11.535755
+Castel San Pietro Terme,Poggio Grande,village,44.441605,11.5897317
+Castel San Pietro Terme,San Nicolò di Varignana,village,44.421473,11.5359205
+Castel San Pietro Terme,Gaiana,village,44.4556069,11.5750237
+Castel San Pietro Terme,Osteria Grande,village,44.4311769,11.5228851
+Castel San Pietro Terme,Gallo Bolognese,village,44.4176956,11.5493639
+Castel San Pietro Terme,Liano,village,44.3788892,11.5470308
+Castel San Pietro Terme,Varignana,village,44.4048177,11.5070566
+Castel San Pietro Terme,Magione,village,44.4094865,11.5682962
+Castenaso,Fiesso,village,44.5114043,11.481261
+Castenaso,Villanova di Castenaso,village,44.497631,11.4275783
+Castiglione dei Pepoli,Roncobilaccio,village,44.117249,11.2212948
+Castiglione dei Pepoli,San Giacomo,village,44.1057565,11.2477835
+Castiglione dei Pepoli,Ca' di Landino,village,44.1336646,11.1791966
+Castiglione dei Pepoli,Baragazza,village,44.1298259,11.1995921
+Castiglione dei Pepoli,Sparvo,village,44.1842032,11.1918469
+Castiglione dei Pepoli,Creda,village,44.1924351,11.1719241
+Castiglione dei Pepoli,Lagaro,village,44.2172648,11.1772132
+Castiglione dei Pepoli,Monte Baducco,village,44.1383987,11.1358711
+Castiglione dei Pepoli,Rasora,village,44.1155295,11.1560188
+Castiglione dei Pepoli,Spianamento,village,44.2129732,11.1891395
+Castiglione dei Pepoli,Castiglione dei Pepoli,village,44.1413775,11.1541163
+Crevalcore,Galeazza,village,44.7997634,11.2778264
+Crevalcore,Bolognina,village,44.7633729,11.145268
+Crevalcore,Palata Pepoli,village,44.7928115,11.2351561
+Crevalcore,Guisa Pepoli,village,44.7023036,11.1676153
+Crevalcore,Ronchi,village,44.7565498,11.139655
+Crevalcore,Sammartini,village,44.7604514,11.1712141
+Dozza,Dozza,village,44.3593911,11.6288788
+Dozza,Toscanella di Dozza,village,44.3820734,11.6395108
+Fontanelice,Fontanelice,village,44.2600978,11.5597358
+Gaggio Montano,Gaggio Montano,village,44.196956,10.932908
+Gaggio Montano,Silla,village,44.1814082,10.980313
+Gaggio Montano,Marano sul Reno,village,44.2250224,11.031283
+Gaggio Montano,Pietracolora,village,44.248235,10.9879279
+Gaggio Montano,Abetaia,village,44.2184171,10.9667899
+Gaggio Montano,Bombiana,village,44.2134874,10.9760382
+Gaggio Montano,Rocca Pitigliana,village,44.236418,11.0065731
+Galliera,Galliera,village,44.749273,11.393709
+Galliera,San Vincenzo,village,44.7368195,11.4440129
+Galliera,San Venanzio,village,44.7447549,11.4375138
+Granarolo dell'Emilia,Quarto Inferiore,village,44.5313774,11.4218061
+Granarolo dell'Emilia,Cadriano,village,44.5504784,11.3998604
+Granarolo dell'Emilia,Lovoleto,village,44.5857608,11.4261874
+Grizzana Morandi,Grizzana Morandi,village,44.2573596,11.1528895
+Grizzana Morandi,Oreglia di sopra,village,44.2292416,11.0988945
+Grizzana Morandi,Piandisetta,village,44.2578118,11.1826996
+Grizzana Morandi,Carviano,village,44.2854816,11.1313736
+Grizzana Morandi,Monteacuto Ragazza,village,44.2240707,11.1323039
+Grizzana Morandi,Ponte,village,44.2275169,11.0590349
+Grizzana Morandi,Salvaro,village,44.3007374,11.1550325
+Grizzana Morandi,Veggio,village,44.2671748,11.1659805
+Grizzana Morandi,Chiosi,village,44.2164612,11.1340372
+Grizzana Morandi,Collina,village,44.2240974,11.1231642
+Grizzana Morandi,Tudiano,village,44.2756522,11.1741195
+Grizzana Morandi,Savignano,village,44.2184949,11.0464352
+Grizzana Morandi,Puzzola,village,44.2677808,11.1842322
+Imola,Ponticelli,village,44.3229419,11.6546526
+Imola,Fabbrica,village,44.3054392,11.6365383
+Imola,Imola,village,48.4200714,20.5511221
+Imola,Sesto Imolese,village,44.4613679,11.7286277
+Imola,Zello,village,44.3458354,11.7704345
+Imola,Bicocca Nuova,village,44.3925765,11.7489292
+Imola,Piratello,village,44.3704275,11.6713168
+Imola,Chiusura,village,44.3716185,11.7458811
+Imola,San Prospero,village,44.3633398,11.7756876
+Imola,Casola Canina,village,44.3963673,11.6848148
+Imola,Sasso Morelli,village,44.4150492,11.7382078
+Imola,Linaro,village,44.3284312,11.6650993
+Lizzano in Belvedere,Lizzano in Belvedere,village,44.1618295,10.8940436
+Lizzano in Belvedere,Querciola,village,44.1937232,10.8839218
+Lizzano in Belvedere,Vidiciatico,village,44.1705692,10.8738828
+Lizzano in Belvedere,Villaggio Europa,village,44.1708614,10.8829434
+Lizzano in Belvedere,Poggiolforato,village,44.1678287,10.8314057
+Lizzano in Belvedere,Chiesina - Farnè,village,44.1814905,10.8471645
+Lizzano in Belvedere,Gabba,village,44.1843907,10.9159284
+Lizzano in Belvedere,La Cà,village,44.1715874,10.852091
+Lizzano in Belvedere,Madonna dell'Acero,village,44.1486573,10.8235591
+Lizzano in Belvedere,Rocca Corneta,village,44.2006863,10.8632111
+Lizzano in Belvedere,Cà di Gianninoni,village,44.163381,10.8349057
+Lizzano in Belvedere,Ca Berna,village,44.1595639,10.8374649
+Loiano,Scascoli,village,44.3125468,11.3045609
+Loiano,Quinzano,village,44.2614418,11.3675998
+Loiano,Fornace di Zena,village,44.3078521,11.3672296
+Loiano,Barbarolo,village,44.3004647,11.342151
+Loiano,Bibulano di Sopra,village,44.2742367,11.3057357
+Loiano,Sabbioni,village,44.284291,11.3289529
+Loiano,La Guarda,village,44.3073281,11.3270331
+Loiano,Scanello,village,44.269696,11.3525887
+Loiano,Loiano,village,44.26833,11.3234319
+Loiano,Anconella,village,44.2960391,11.3233394
+Loiano,Roncastaldo,village,44.2439782,11.3171399
+Malalbergo,Malalbergo,village,44.718674,11.532212
+Malalbergo,Altedo,village,44.6647943,11.4867107
+Malalbergo,Pegola,village,44.68942,11.502859
+Malalbergo,Casoni di Malalbergo,village,44.6285858,11.4621581
+Marzabotto,Marzabotto,village,44.3409877,11.204782
+Marzabotto,Luminasio,village,44.3599153,11.1904456
+Marzabotto,Lama di Reno,village,44.3637494,11.2163615
+Marzabotto,Pànico,village,44.3555848,11.2156928
+Marzabotto,La Quercia,village,44.2922011,11.2087645
+Marzabotto,Medelana,village,44.3778202,11.172957
+Marzabotto,Sirano,village,44.3756104,11.2469213
+Marzabotto,Lama di Setta,village,44.3400493,11.2696112
+Marzabotto,Allocco,village,44.3313273,11.2651975
+Marzabotto,Pian di Venola,village,44.3328827,11.1870057
+Marzabotto,Pioppe,village,44.313611,11.167534
+Marzabotto,Sibano,village,44.3219331,11.1801007
+Marzabotto,Murazze,village,44.2995265,11.2414914
+Marzabotto,Montasico,village,44.340598,11.1511599
+Marzabotto,Gardeletta,village,44.297249,11.236716
+Marzabotto,Malfolle,village,44.3254908,11.1591037
+Medicina,Villa Fontana,village,44.4956061,11.61112
+Medicina,Portonovo,village,44.5320023,11.7519593
+Medicina,Ganzanigo,village,44.4789094,11.6566044
+Medicina,Buda,village,44.5167226,11.700365
+Medicina,Sant'Antonio,village,44.5601562,11.7212976
+Medicina,Crocetta,village,44.4614863,11.6939471
+Medicina,Via Nuova,village,44.4765889,11.6803368
+Medicina,Fossatone,village,44.5036392,11.5575196
+Minerbio,Minerbio,village,44.6241987,11.4906968
+Minerbio,Capo d'Argine,village,44.5988664,11.4383318
+Minerbio,Spettoleria,village,44.6099241,11.4479577
+Minerbio,Cà de fabbri,village,44.6188827,11.4538159
+Minerbio,Tintoria,village,44.6329556,11.5136607
+Minerbio,San Martino in Soverzano,village,44.6107926,11.5217679
+Minerbio,San Giovanni in Triario,village,44.601382,11.5078633
+Molinella,San Martino in Argine,village,44.5889433,11.6119569
+Molinella,Miravalle,village,44.588664,11.6307651
+Molinella,Selva Malvezzi,village,44.5559288,11.6271487
+Molinella,Guarda,village,44.6100918,11.6214982
+Molinella,Marmorta,village,44.6194879,11.7155875
+Molinella,Alberino,village,44.6528733,11.6483794
+Molinella,San Pietro Capofiume,village,44.6437436,11.6349061
+Monghidoro,Monghidoro,village,44.2198594,11.3187467
+Monghidoro,Sant'Andrea di Savena,village,44.2304503,11.2785288
+Monghidoro,Fradusto,village,44.2219641,11.2837067
+Monghidoro,Frassineta,village,44.2084283,11.3472897
+Monghidoro,Piamaggio,village,44.2033623,11.3147665
+Monghidoro,Campeggio,village,44.2277211,11.3479239
+Monghidoro,Vergiano,village,44.2362182,11.2809042
+Monghidoro,Stiolo,village,44.2461899,11.2879019
+Monghidoro,Madonna dei Boschi,village,44.2341438,11.3345612
+Monterenzio,Bisano,village,44.275319,11.3888728
+Monterenzio,Villa di Sassonero,village,44.2715344,11.4470011
+Monterenzio,Fiumetto,village,44.3140336,11.4025023
+Monterenzio,Villa di Cassano,village,44.2962715,11.4171256
+Monterenzio,Ca di Lavacchio,village,44.2997201,11.3979671
+Monterenzio,Savazza,village,44.3047494,11.3991247
+Monterenzio,Palazzo di Bisano,village,44.2815731,11.390824
+Monterenzio,Casella di Castelnuovo,village,44.2866822,11.3850858
+Monterenzio,La Rocca,village,44.337053,11.4051503
+Monterenzio,San Benedetto del Querceto,village,44.2559837,11.3758886
+Monterenzio,Monterenzio,village,44.3268824,11.406144
+Monterenzio,Cà di Bazzone,village,44.3504661,11.4093325
+Monte San Pietro,San Martino in Casola,village,44.4926755,11.1607126
+Monte San Pietro,Loghetto,village,44.4526047,11.1415838
+Monte San Pietro,Badia,village,44.4086854,11.1286253
+Monte San Pietro,Borra,village,44.3748377,11.1613453
+Monte San Pietro,Monte San Giovanni,village,44.4115486,11.1651862
+Monte San Pietro,Oca,village,44.4118552,11.1405753
+Monte San Pietro,Montepastore,village,44.367987,11.1251762
+Monte San Pietro,San Lorenzo in Collina,village,44.4681505,11.1696437
+Monte San Pietro,Sartorano,village,44.4477058,11.1579658
+Monte San Pietro,Calderino,village,44.4576506,11.199033
+Monte San Pietro,Ponterivabella,village,44.4659384,11.1969509
+Monzuno,Monzuno,village,44.2792634,11.266408
+Monzuno,Selve,village,44.2921658,11.2775249
+Monzuno,Brento,village,44.3400949,11.3042873
+Monzuno,Rioveggio,village,44.2773027,11.2006777
+Monzuno,Vado,village,44.3174852,11.2581749
+Monzuno,Trasasso,village,44.2549951,11.2735342
+Monzuno,Montorio,village,44.2614262,11.2053794
+Monzuno,Tre Fasci,village,44.2890157,11.2774053
+Mordano,Mordano,village,44.3974264,11.8108566
+Mordano,Chiavica,village,44.4037902,11.7696865
+Mordano,Bubano,village,44.4117749,11.7834011
+Ozzano dell'Emilia,Tolara,village,44.4402727,11.491389
+Ozzano dell'Emilia,Ponte Rizzoli,village,44.4654366,11.5104743
+Ozzano dell'Emilia,Maggio,village,44.436132,11.500703
+Ozzano dell'Emilia,Osteria Nuova,village,44.4478792,11.4975961
+Ozzano dell'Emilia,Zona Industriale Quaderna,village,44.4544101,11.5039823
+Ozzano dell'Emilia,San Pietro,village,44.4180803,11.4833745
+Ozzano dell'Emilia,Mercatale,village,44.3907375,11.4299178
+Ozzano dell'Emilia,La Noce,village,44.3767721,11.426638
+Ozzano dell'Emilia,Settefonti,village,44.3947829,11.4621395
+Ozzano dell'Emilia,Ciagnano,village,44.4112529,11.4399795
+Ozzano dell'Emilia,Sant'Andrea,village,44.4200566,11.4671491
+Pianoro,Montecalvo,village,44.4317348,11.378439
+Pianoro,Rastignano,village,44.4429957,11.3561198
+Pianoro,Zena,village,44.3441827,11.3693805
+Pianoro,Botteghino di Zocca,village,44.3964575,11.3991143
+Pianoro,Pianoro Vecchio,village,44.3707577,11.3408417
+Pianoro,Pian di Macina,village,44.3983484,11.3405033
+Pianoro,Musiano,village,44.411138,11.3493891
+Pianoro,Livergnano,village,44.3249394,11.3313448
+Pianoro,Carteria di Sesto,village,44.4287875,11.3521866
+Pianoro,Guzzano,village,44.3706803,11.3203334
+Pianoro,Riosto,village,44.3779686,11.3597352
+Pianoro,Zula,village,44.3578552,11.3431017
+Pianoro,Sesto,village,44.4229308,11.3490486
+Pieve di Cento,Pieve di Cento,village,44.7132091,11.3065981
+Sala Bolognese,Sala,village,44.6153508,11.2569544
+Sala Bolognese,Padulle,village,44.6306119,11.2777018
+Sala Bolognese,Osteria Nuova,village,44.5852851,11.2367511
+San Benedetto Val di Sambro,San Benedetto Val di Sambro,village,44.215259,11.232914
+San Benedetto Val di Sambro,Cedrecchia,village,44.2172076,11.2619457
+San Benedetto Val di Sambro,Villa di Cedrecchia,village,44.2256358,11.2680566
+San Benedetto Val di Sambro,Madonna dei Fornelli,village,44.2004773,11.2603114
+San Benedetto Val di Sambro,Pian Del Voglio,village,44.1698003,11.2143989
+San Benedetto Val di Sambro,Zaccanesca,village,44.2066139,11.2720266
+San Benedetto Val di Sambro,Castel dell'Alpi,village,44.1840305,11.2754731
+San Benedetto Val di Sambro,Monteacuto Vallese,village,44.2412112,11.2072514
+San Benedetto Val di Sambro,Montefredente,village,44.1894671,11.2203714
+San Benedetto Val di Sambro,Pian di Balestra,village,44.1679165,11.2574846
+San Benedetto Val di Sambro,Qualto,village,44.1999643,11.2399167
+San Benedetto Val di Sambro,Ripoli (di sopra),village,44.2258448,11.1966464
+San Benedetto Val di Sambro,Sant'Andrea,village,44.2149213,11.2201803
+San Benedetto Val di Sambro,Valserena,village,44.1642214,11.2520666
+San Benedetto Val di Sambro,Campiano,village,44.2246234,11.2174216
+San Benedetto Val di Sambro,Ripoli (di sotto),village,44.2177105,11.1957125
+San Giorgio di Piano,San Giorgio di Piano,village,44.6467934,11.3754491
+San Giorgio di Piano,Cinquanta,village,44.6589549,11.4007519
+San Giorgio di Piano,Gherghenzano,village,44.6818111,11.3822569
+San Giorgio di Piano,Stiatico,village,44.6185564,11.3609049
+San Giovanni in Persiceto,Biancolina,village,44.6516558,11.2173929
+San Giovanni in Persiceto,Lorenzatico,village,44.6550498,11.242465
+San Giovanni in Persiceto,San Matteo della Decima,village,44.7091447,11.2307165
+San Giovanni in Persiceto,Arginone,village,44.738717,11.2381301
+San Giovanni in Persiceto,Le Budrie,village,44.5911471,11.1829677
+San Giovanni in Persiceto,Castagnolo,village,44.6044351,11.1588947
+San Giovanni in Persiceto,Zenerigolo,village,44.6441198,11.2294402
+San Giovanni in Persiceto,Accatà,village,44.6494097,11.1965732
+San Giovanni in Persiceto,Amola del Piano,village,44.6603728,11.1644933
+San Giovanni in Persiceto,Buche,village,44.6349758,11.2054761
+San Giovanni in Persiceto,Contrada Tiraferro,village,44.6186766,11.1642909
+San Giovanni in Persiceto,Cà Davia,village,44.6111061,11.2133673
+San Giovanni in Persiceto,Forcelli,village,44.6188481,11.2309302
+San Giovanni in Persiceto,Il Postrino,village,44.6271922,11.2100783
+San Giovanni in Persiceto,Pieve di Decima,village,44.7196122,11.235373
+San Giovanni in Persiceto,Piolino,village,44.6662976,11.174057
+San Giovanni in Persiceto,Possessione Piccola,village,44.6242024,11.1514966
+San Giovanni in Persiceto,Quattro Torri,village,44.5970622,11.1522175
+San Giovanni in Persiceto,San Martino,village,44.6500244,11.2063863
+San Giovanni in Persiceto,Tassinara,village,44.6609998,11.222722
+San Giovanni in Persiceto,Tivoli,village,44.6195405,11.1420649
+San Giovanni in Persiceto,Villa Giovannina,village,44.7347042,11.2636724
+San Lazzaro di Savena,Colunga,village,44.4728217,11.4647143
+San Lazzaro di Savena,Borgatella,village,44.4816437,11.439712
+San Lazzaro di Savena,Castel dei Britti,village,44.4269874,11.4335351
+San Lazzaro di Savena,Croara,village,44.4447992,11.3865886
+San Lazzaro di Savena,Farneto,village,44.4363615,11.4082393
+San Lazzaro di Savena,La Mura San Carlo,village,44.4470171,11.4137878
+San Lazzaro di Savena,Ponticella,village,44.4561526,11.3776736
+San Lazzaro di Savena,Idice,village,44.4568907,11.4426928
+San Lazzaro di Savena,La Pulce,village,44.4499713,11.4086069
+San Lazzaro di Savena,La Campana,village,44.4526055,11.4546949
+San Pietro in Casale,Rubizzano,village,44.6863356,11.4136147
+San Pietro in Casale,San Benedetto,village,44.6960089,11.3774457
+San Pietro in Casale,Gavaseto,village,44.700645,11.4292142
+San Pietro in Casale,Maccaretolo,village,44.7177462,11.4251618
+San Pietro in Casale,Cantone,village,44.7501117,11.3454315
+San Pietro in Casale,Massumatico,village,44.7232903,11.3723882
+San Pietro in Casale,Poggetto,village,44.7326676,11.3473601
+San Pietro in Casale,Sant'Alberto,village,44.7192178,11.4050646
+San Pietro in Casale,Asia,village,44.7169073,11.3376409
+San Pietro in Casale,Cenacchio,village,44.6957623,11.4425104
+Sant'Agata Bolognese,Sant'Agata Bolognese,village,44.664169,11.134004
+Sant'Agata Bolognese,Crocetta,village,44.6971299,11.1583537
+Sant'Agata Bolognese,Maggi,village,44.6569885,11.1120966
+Sasso Marconi,Rasiglio - Scopeto,village,44.4114489,11.1824426
+Sasso Marconi,Pontecchio Marconi,village,44.4286129,11.2681639
+Sasso Marconi,Borgonuovo,village,44.4438226,11.2683383
+Sasso Marconi,Mongardino,village,44.4175605,11.2109588
+Sasso Marconi,Battedizzo,village,44.3748795,11.2623073
+Sasso Marconi,Cinque Cerri,village,44.3592096,11.2641663
+Sasso Marconi,Fontana,village,44.3831869,11.2358149
+Sasso Marconi,Codivilla,village,44.3922691,11.1990612
+Vergato,Vergato,village,44.28266,11.10731
+Vergato,Riola,village,44.2307274,11.0490225
+Vergato,Pioppe di Salvaro,village,44.3111295,11.1578737
+Vergato,Oreglia di sotto,village,44.2415839,11.0946332
+Vergato,Prunarolo,village,44.3146277,11.0952791
+Vergato,Tolè,village,44.3296079,11.0579943
+Vergato,Calvenzano,village,44.3033477,11.1456419
+Vergato,Castelnuovo,village,44.2558289,11.0675172
+Vergato,Tabina,village,44.3012027,11.1242742
+Vergato,Cereglio,village,44.3075692,11.0658248
+Zola Predosa,Rivabella,village,44.469052,11.2028797
+Zola Predosa,Madonna dei Prati di Tomba,village,44.5243144,11.2030842
+Zola Predosa,Gesso,village,44.4795306,11.2250574
+Zola Predosa,Gessi,village,44.4723455,11.2120928
+Zola Predosa,Ponte Ronca,village,44.5013503,11.1906621
+Valsamoggia,Monteveglio,village,44.4701624,11.1001071
+Valsamoggia,Castello di Serravalle,village,44.437618,11.0316656
+Valsamoggia,Bazzano,village,44.5040658,11.0821527
+Valsamoggia,Crespellano,village,44.5105352,11.130521
+Valsamoggia,Savigno,village,44.3919473,11.0745599
+Valsamoggia,Calcara,village,44.5489473,11.1322523
+Valsamoggia,Mercatello,village,44.4371094,11.0479237
+Valsamoggia,Castelletto,village,44.4394713,11.0646722
+Valsamoggia,Ziribega,village,44.4424506,11.082038
+Valsamoggia,Bersagliera,village,44.4416186,11.0956462
+Valsamoggia,Pragatto,village,44.5108304,11.1369957
+Valsamoggia,Ponte Samoggia,village,44.5629028,11.1430032
+Valsamoggia,Muffa,village,44.5094253,11.1097238
+Valsamoggia,Zappolino,village,44.4350508,11.1089913
+Valsamoggia,Fagnano,village,44.4386592,11.1178597
+Valsamoggia,Magazzino,village,44.5187392,11.0579213
+Valsamoggia,Rodiano,village,44.3233776,11.0985852
+Valsamoggia,Vedegheto,village,44.343,11.1112619
+Valsamoggia,Cà Bortolani,village,44.342647,11.0778767
+Valsamoggia,Formica,village,44.4909117,11.0865827
+Valsamoggia,Goccia,village,44.3654878,11.0539643
+Valsamoggia,Merlano,village,44.3847143,11.0973371
+Valsamoggia,Montebudello,village,44.4794609,11.0645465
+Valsamoggia,Oliveto,village,44.4731627,11.1238892
+Valsamoggia,San Prospero,village,44.364638,11.0682341
+Valsamoggia,Santa Croce,village,44.3496534,11.0335402
+Valsamoggia,I Piani,village,44.3368219,11.1156574
+Valsamoggia,Casa Costa,village,44.3496975,11.0930615
+Valsamoggia,Venola,village,44.3423215,11.1040425
+Valsamoggia,Samoggia,village,44.3899862,11.0595894
+Valsamoggia,Pignoletto,village,44.462487,11.0871784
+Alto Reno Terme,Porretta Terme,village,44.1591596,10.9723006
+Alto Reno Terme,Casa Calistri,village,44.0987009,10.9117256
+Alto Reno Terme,Castelluccio,village,44.1518702,10.927826
+Alto Reno Terme,Biagioni,village,44.0847489,10.9469868
+Alto Reno Terme,Casa Boni,village,44.0951311,10.9384796
+Alto Reno Terme,Casa Forlai,village,44.0990909,10.9377915
+Alto Reno Terme,Molino del Pallone,village,44.1000703,10.9606719
+Alto Reno Terme,Ponte della Venturina,village,44.1295225,10.9915435
+Argenta,Argenta,village,39.9819808,-88.8228535
+Argenta,San Biagio,village,44.5851548,11.8666824
+Argenta,Filo,village,44.5892508,11.9304983
+Argenta,Bando,village,44.6451026,11.8843228
+Argenta,Traghetto,village,44.6404873,11.6874042
+Argenta,San Nicolò,village,44.7071431,11.7106568
+Argenta,Campotto,village,44.5747829,11.7935127
+Argenta,La Fiorana,village,44.6319311,11.9050457
+Argenta,Benvignante,village,44.6821696,11.7389938
+Argenta,Santa Maria Codifiume,village,44.6651443,11.6481483
+Argenta,Ospital Monacale,village,44.6682279,11.699548
+Argenta,Anita,village,44.5655774,12.0768736
+Argenta,Longastrino,village,44.588001,12.0086373
+Argenta,Consandolo,village,44.6541748,11.7760997
+Bondeno,Stellata di Bondeno,village,44.9478861,11.421983
+Bondeno,Scortichino,village,44.8802488,11.3286867
+Bondeno,Salvatonica,village,44.925456,11.4507241
+Bondeno,Ospitale,village,44.8915818,11.4326138
+Bondeno,Settepolesini,village,44.8969781,11.4591559
+Bondeno,Forna,village,44.9163144,11.2826901
+Bondeno,Burana,village,44.9152759,11.3518729
+Bondeno,Gavello,village,44.914678,11.2984725
+Bondeno,Pilastri,village,44.9468898,11.2877884
+Bondeno,Santa Bianca,village,44.8656184,11.3917942
+Bondeno,Zerbinate,village,44.9525632,11.3860079
+Bondeno,Argine Lupo,village,44.9434042,11.4076551
+Cento,Molino Albergati,village,44.7871835,11.3388774
+Cento,Corporeno,village,44.7558406,11.3103686
+Cento,Torre Spada,village,44.7819511,11.3143012
+Cento,Pilastrello,village,44.7960234,11.3224979
+Cento,Bevilacqua,village,44.7677345,11.2560029
+Cento,Renazzo,village,44.765135,11.2903422
+Cento,Alberone,village,44.8151708,11.3071022
+Cento,Buonacompra,village,44.8069933,11.341555
+Cento,Reno Centese,village,44.8285957,11.328455
+Cento,Dodici Morelli,village,44.7912144,11.2900675
+Codigoro,Codigoro,village,44.831581,12.109524
+Codigoro,Volano,village,44.8048152,12.2549563
+Codigoro,Pomposa,village,44.8406057,12.1764477
+Codigoro,Pontemaodino,village,44.8360025,12.1416113
+Codigoro,Torbiera,village,44.8707017,12.0844596
+Codigoro,Pontelangorino,village,44.8632365,12.1493441
+Codigoro,Caprile,village,44.8592899,12.1660643
+Codigoro,Mezzogoro,village,44.9053434,12.0990391
+Comacchio,Lido delle Nazioni,village,44.7426066,12.2412215
+Comacchio,Porto Garibaldi,village,44.6784293,12.2398703
+Comacchio,Lido di Spina,village,44.6507249,12.2476762
+Comacchio,Lido degli Estensi,village,44.6692798,12.2433254
+Comacchio,Lido di Volano,village,44.7984338,12.2617826
+Comacchio,Lido degli Scacchi,village,44.7079683,12.2387502
+Comacchio,Volania,village,44.7264291,12.1340847
+Comacchio,Lido di Pomposa,village,44.7164138,12.2385379
+Comacchio,San Giuseppe,village,44.7217829,12.219426
+Comacchio,Borgo Manara,village,44.7599113,12.2295084
+Copparo,Coccanile-Cesta,village,44.9242574,11.8753358
+Copparo,Ambrogio,village,44.9114183,11.9119902
+Copparo,Sant'Apollinare,village,44.9242241,11.9602476
+Copparo,Ponte San Pietro,village,44.907156,11.8434515
+Copparo,Sabbioncello San Pietro,village,44.8447478,11.8141123
+Copparo,Sabbioncello San Vittore,village,44.8384138,11.8278137
+Copparo,Gradizza,village,44.8721742,11.834049
+Copparo,Fossalta,village,44.8507095,11.7661
+Copparo,Tamara,village,44.877169,11.7703159
+Copparo,Saletta,village,44.8893827,11.7718052
+Ferrara,San Bartolomeo in Bosco,village,44.7320151,11.6336537
+Ferrara,San Martino,village,44.7797823,11.5887215
+Ferrara,Pontelagoscuro,village,44.8783159,11.609121
+Ferrara,Porotto,village,44.8510121,11.5519561
+Ferrara,Corlo,village,44.8796196,11.7506638
+Ferrara,Montalbano,village,44.7512079,11.5762103
+Ferrara,Boara,village,44.8639087,11.6848492
+Ferrara,Pescara,village,44.9104078,11.688877
+Ferrara,Francolino,village,44.902705,11.6609106
+Ferrara,Fossa d'Albero,village,44.9151336,11.7132206
+Ferrara,Villanova,village,44.8330938,11.8086692
+Ferrara,Parasacco,village,44.7918344,11.8661668
+Ferrara,Fossanova San Marco,village,44.7948027,11.6310525
+Ferrara,Gorgo,village,44.7850317,11.6504075
+Ferrara,Quartesana,village,44.8059079,11.7396846
+Ferrara,Correggio,village,44.8720956,11.7301955
+Ferrara,Gaibanella,village,44.7664432,11.6532726
+Ferrara,Cocomaro di Focomorto,village,44.8143326,11.6875329
+Ferrara,Fossanova San Biagio,village,44.7828328,11.6313526
+Ferrara,Monestirolo,village,44.7353495,11.6906763
+Ferrara,Bova di Marrara,village,44.698766,11.6910933
+Ferrara,Marrara,village,44.7222609,11.6859699
+Ferrara,Cassana,village,44.8493988,11.5619951
+Ferrara,Malborghetto di Boara,village,44.8588201,11.649239
+Ferrara,Chiesuol del Fosso,village,44.804708,11.58469
+Ferrara,Ravalle,village,44.9280691,11.5105052
+Ferrara,Porporana,village,44.9239873,11.4740035
+Ferrara,Casaglia,village,44.9012339,11.5422625
+Ferrara,Gaibana,village,44.7524551,11.6556009
+Ferrara,Uccellino,village,44.7897696,11.5717988
+Ferrara,Focomorto,village,44.8329853,11.677946
+Ferrara,Aguscello,village,44.8078413,11.6605331
+Ferrara,Pontegradella,village,44.8387692,11.6628291
+Ferrara,Fondo Reno,village,44.82512,11.5482172
+Ferrara,Borgo Scoline,village,44.8272141,11.5347547
+Ferrara,Sabbioni,village,44.9133849,11.703059
+Ferrara,Malborghetto di Correggio,village,44.8830326,11.738891
+Ferrara,Sant' Egidio,village,44.7636952,11.6541827
+Ferrara,Spinazzino,village,44.7095448,11.631325
+Jolanda di Savoia,Jolanda di Savoia,village,44.8824077,11.9793488
+Jolanda di Savoia,Gherardi,village,44.8389341,11.9545431
+Lagosanto,Lagosanto,village,44.76198,12.142825
+Lagosanto,Vaccolino,village,44.8013604,12.1781697
+Lagosanto,Marozzo,village,44.7822063,12.1252217
+Lagosanto,Boschetto,village,44.7804084,12.1641706
+Masi Torello,Masi Torello,village,44.794578,11.801817
+Masi Torello,Masi San Giacomo,village,44.7754343,11.7949938
+Mesola,Mesola,village,44.9207815,12.2292244
+Mesola,Ariano Ferrarese,village,44.9425466,12.1170305
+Mesola,Santa Giustina,village,44.904775,12.2686081
+Mesola,Italba,village,44.8844415,12.1615488
+Mesola,Massenzatica,village,44.9259297,12.1726076
+Mesola,Monticelli,village,44.9164188,12.1880034
+Mesola,Bosco Mesola,village,44.8793726,12.2271876
+Mesola,Alberazzo,village,44.8884256,12.2497543
+Ostellato,Ostellato,village,44.745678,11.943521
+Ostellato,Rovereto,village,44.7654859,11.871961
+Ostellato,Medelana,village,44.7748036,11.8729199
+Ostellato,San Giovanni,village,44.7270221,12.0486377
+Ostellato,Campolungo,village,44.7496519,11.9635498
+Ostellato,San Vito,village,44.7551965,11.874502
+Ostellato,Libolla,village,44.7448826,11.9044828
+Ostellato,Dogato,village,44.7488851,11.8875546
+Ostellato,Alberlungo,village,44.7624536,11.9061053
+Poggio Renatico,Poggio Renatico,village,44.765974,11.490111
+Poggio Renatico,Coronella,village,44.8016802,11.5225601
+Poggio Renatico,Chiesa Nuova,village,44.7766734,11.4267608
+Poggio Renatico,Gallo Ferrarese,village,44.7324408,11.5545923
+Poggio Renatico,Madonna Boschi,village,44.8196071,11.4912161
+Portomaggiore,Portorotta,village,44.7018924,11.7823874
+Portomaggiore,Quartiere,village,44.7120376,11.7571789
+Portomaggiore,Ripapersico,village,44.6882681,11.7913909
+Portomaggiore,Portoverrara,village,44.6936007,11.8339944
+Portomaggiore,Maiero,village,44.7234511,11.8307664
+Portomaggiore,Runco,village,44.738824,11.7733041
+Portomaggiore,Gambulaga,village,44.7450083,11.7889313
+Portomaggiore,Sandolo,village,44.7248978,11.8153464
+Vigarano Mainarda,Vigarano Mainarda,village,44.8434217,11.4944364
+Vigarano Mainarda,Vigarano Pieve,village,44.8625536,11.512017
+Vigarano Mainarda,Diamantina,village,44.8853123,11.5095863
+Vigarano Mainarda,Borgo Castello,village,44.8146602,11.5182692
+Voghiera,Voghiera,village,44.759074,11.751132
+Voghiera,Gualdo,village,44.7825001,11.7344357
+Voghiera,Ducentola,village,44.7877812,11.739631
+Voghiera,Montesanto,village,44.7295826,11.7243931
+Voghiera,Voghenza,village,44.7676405,11.7498087
+Goro,Goro,village,44.850883,12.294927
+Goro,Gorino,village,44.8240448,12.345025
+Fiscaglia,Migliarino,village,44.769878,11.933721
+Fiscaglia,Migliaro,village,44.800079,11.973821
+Fiscaglia,Massa Fiscaglia,village,44.8087596,12.0106057
+Terre del Reno,Sant'Agostino,village,44.792274,11.388208
+Terre del Reno,Mirabello,village,44.825776,11.461809
+Terre del Reno,Dosso,village,44.7674471,11.3337766
+Terre del Reno,San Carlo,village,44.8022755,11.4106991
+Terre del Reno,Roversetto,village,44.7838332,11.3636071
+Riva del Po,Berra,village,44.977184,11.978518
+Riva del Po,Cologna,village,44.9682319,11.8942011
+Riva del Po,Ruina,village,44.9123638,11.7407988
+Riva del Po,Serravalle,village,44.9663525,12.0474601
+Riva del Po,Alberone,village,44.9633728,11.8398453
+Riva del Po,Ro,village,44.9466518,11.7626169
+Riva del Po,Guarda,village,44.9729619,11.8053787
+Riva del Po,Zocca,village,44.9335154,11.7502214
+Tresignana,Formignana,village,44.84348,11.860018
+Tresignana,Tresigallo,village,44.815979,11.894719
+Tresignana,Roncodigà,village,44.801169,11.9139914
+Tresignana,Rero,village,44.7977264,11.8893628
+Tresignana,Final di Rero,village,44.8088315,11.8769643
+Alfonsine,Case Selvatiche,village,44.5838971,11.9095454
+Alfonsine,Molino di Filo,village,44.5917181,11.9526807
+Alfonsine,Menate,village,44.6003348,12.0039161
+Bagnacavallo,Glorie,village,44.4707141,12.0794885
+Bagnacavallo,Villanova di Bagnacavallo,village,44.4477987,12.0512228
+Bagnara di Romagna,Bagnara di Romagna,village,44.3891411,11.8264421
+Brisighella,Brisighella,village,44.2221401,11.7722262
+Brisighella,Fognano,village,44.2055321,11.7366878
+Brisighella,Villa Vezzano,village,44.2642452,11.7485153
+Brisighella,San Martino in Gattara,village,44.1148254,11.6704241
+Casola Valsenio,Casola Valsenio,village,44.2231871,11.6231101
+Castel Bolognese,Castel Bolognese,village,44.3204868,11.7992579
+Cervia,Castiglione di Cervia,village,44.2609339,12.2632587
+Cervia,Savio,village,44.2946807,12.3067551
+Cervia,Pinarella di Cervia,village,44.2458179,12.3657964
+Conselice,Conselice,village,44.5127578,11.8291743
+Conselice,San Patrizio,village,44.4895639,11.8266534
+Cotignola,Cotignola,village,44.3846325,11.9423791
+Faenza,Reda,village,44.3023102,11.9696236
+Faenza,Granarolo Faentino,village,44.3578555,11.9346216
+Faenza,Errano,village,44.2591204,11.8279461
+Faenza,Marzeno,village,44.2282188,11.8656515
+Faenza,Borgo Tuliero,village,44.2587059,11.8694716
+Fusignano,Fusignano,village,44.467572,11.960214
+Lugo,San Potito,village,44.4308617,11.9386811
+Lugo,Belricetto,village,44.5051757,11.910833
+Lugo,Voltana,village,44.5426061,11.936486
+Lugo,Bizzuno,village,44.4524864,11.9262477
+Lugo,O Carqueixo,village,43.012987,-7.5227269
+Lugo,Bizzuno,village,44.4512654,11.925607
+Ravenna,Marina di Ravenna,village,44.4851718,12.2788139
+Ravenna,Ravenna,village,43.189626,-85.93704
+Ravenna,Ravenna,village,37.6845272,-83.9529791
+Ravenna,Lido di Classe,village,44.3261463,12.3365448
+Ravenna,Punta Marina Terme,village,44.4387363,12.2903779
+Ravenna,Classe,village,44.3808671,12.2370915
+Ravenna,Lido Adriano,village,44.4122541,12.3085978
+Ravenna,Porto Fuori,village,44.405071,12.2501907
+Ravenna,Conventello,village,44.5010062,12.0975598
+Ravenna,Porto Corsini,village,44.4937638,12.2769112
+Ravenna,Castiglione di Ravenna,village,44.261107,12.2549839
+Ravenna,Marina Romea,village,44.5139861,12.2729458
+Ravenna,Villanova di Ravenna,village,44.3797152,12.1176631
+Ravenna,Santerno,village,44.4350299,12.0583142
+Ravenna,Piangipane,village,44.4188281,12.0871439
+Ravenna,Casalborsetti,village,44.5519836,12.2808705
+Ravenna,Sant'Alberto,village,44.5398207,12.1590787
+Ravenna,Ragone,village,44.3538159,12.0895853
+Ravenna,Savio di Ravenna,village,44.3117154,12.2929729
+Ravenna,San Romualdo,village,44.496539,12.1691544
+Ravenna,San Zaccaria,village,44.2711159,12.2143525
+Ravenna,Longana,village,44.3568202,12.1540747
+Ravenna,San Romualdo,village,44.4956695,12.1713148
+Riolo Terme,Isola,village,44.2676369,11.6950885
+Riolo Terme,Borgo Rivola,village,44.2614772,11.6718234
+Riolo Terme,Riolo Terme,village,44.2770835,11.72452
+Russi,Godo,village,44.3928788,12.0758258
+Russi,San Pancrazio,village,44.3593475,12.0785001
+Sant'Agata sul Santerno,Sant'Agata sul Santerno,village,44.44217,11.860124
+Solarolo,Solarolo,village,44.360368,11.844525
+Bagno di Romagna,San Piero in Bagno,village,43.8576286,11.9769068
+Bagno di Romagna,Bagno di Romagna,village,43.8352272,11.9595985
+Bertinoro,Santa Maria Nuova Spallicci,village,44.2005035,12.1891091
+Bertinoro,Ospedaletto,village,44.1712884,12.129126
+Bertinoro,Capocolle,village,44.1645288,12.1766846
+Bertinoro,Fratta Terme,village,44.1438029,12.1015912
+Bertinoro,Panighina,village,44.1704269,12.1588541
+Borghi,Borghi,village,44.0315914,12.3543893
+Borghi,San Giovanni in Galilea,village,44.0001526,12.3496842
+Castrocaro Terme e Terra del Sole,Castrocaro Terme e Terra del Sole,village,44.182365,11.955631
+Cesena,Martorano,village,44.1716207,12.2437279
+Cesena,San Carlo,village,44.0887698,12.1921142
+Cesena,Borello,village,44.0517813,12.1756382
+Cesena,Calisese,village,44.1014863,12.3015089
+Cesena,La Pioppa,village,44.1953736,12.3136262
+Cesena,Calabrina,village,44.1813199,12.2978795
+Cesena,San Giorgio,village,44.1944109,12.2784275
+Cesena,Ronta,village,44.1922994,12.2425519
+Cesena,San Martino in Fiume,village,44.2113547,12.2426586
+Cesena,San Vittore,village,44.1059409,12.1961544
+Cesena,Formignano,village,44.0768459,12.1570759
+Cesena,Pievesestina,village,44.1844579,12.2180646
+Cesena,Ponte Pietra,village,44.14105,12.2920481
+Cesena,Oriola,village,44.0627557,12.2231424
+Cesena,Ponte Abbadesse,village,44.1262793,12.2438577
+Cesena,Tessello,village,44.1020543,12.1425092
+Cesena,Tipano,village,44.1252422,12.2012803
+Cesena,Bulgarnò,village,44.1335592,12.3352187
+Cesena,Torre del Moro,village,44.1455107,12.2188984
+Cesenatico,Sala di Cesenatico,village,44.1550948,12.3845842
+Cesenatico,Cella,village,44.1803965,12.3768141
+Civitella di Romagna,Civitella di Romagna,village,44.0071707,11.9413464
+Civitella di Romagna,Civorio,village,43.9476709,12.034544
+Civitella di Romagna,Cusercoli,village,44.0443641,12.0048138
+Civitella di Romagna,Piandispino,village,44.056056,12.0883382
+Dovadola,Dovadola,village,44.1225739,11.888255
+Dovadola,Casone,village,44.1085568,11.8707625
+Forlì,Villanova,village,44.2480424,11.9760768
+Forlì,La Selva,village,44.215509,12.1020995
+Forlì,San Tomè,village,44.2628271,12.023018
+Forlimpopoli,Selbagnone,village,44.1738734,12.1101046
+Galeata,Galeata,village,43.9966629,11.9120062
+Gatteo,Gatteo,village,44.109466,12.386042
+Gatteo,Sant Angelo,village,44.1336822,12.3853483
+Gatteo,Gatteo a Mare,village,44.1721701,12.4371677
+Longiano,Longiano,village,44.0743778,12.3274733
+Longiano,Crocetta,village,44.0864832,12.3474416
+Longiano,Massa,village,44.0918701,12.3309511
+Longiano,Budrio,village,44.1029195,12.3322665
+Longiano,Ponte Ospedaletto,village,44.1010538,12.3426026
+Meldola,Valdinoce,village,44.0593688,12.1019279
+Meldola,Meldola,village,44.1267212,12.0611527
+Mercato Saraceno,Ciola,village,43.9803907,12.1401026
+Mercato Saraceno,Piavola,village,44.0275193,12.131258
+Mercato Saraceno,Linaro,village,43.9939071,12.1064959
+Mercato Saraceno,Monte Castello,village,43.9448099,12.1830744
+Mercato Saraceno,Mercato Saraceno,village,43.9567671,12.1959387
+Mercato Saraceno,Bora,village,44.0505614,12.1776389
+Mercato Saraceno,Cella,village,44.0126363,12.2008852
+Mercato Saraceno,Bareto,village,43.9949818,12.196534
+Modigliana,Modigliana,village,44.161163,11.793528
+Montiano,Montiano,village,44.082965,12.30444
+Montiano,Badia,village,44.0949215,12.3146218
+Portico e San Benedetto,Portico di Romagna,village,44.025695,11.7823015
+Predappio,Predappio,village,44.1022154,11.9816196
+Predappio,Predappio Alta,village,44.0993482,11.9619667
+Premilcuore,Premilcuore,village,43.9759077,11.7775267
+Rocca San Casciano,Rocca San Casciano,village,44.0590962,11.8420614
+Roncofreddo,Roncofreddo,village,44.0422403,12.3182595
+Roncofreddo,Sorrivoli,village,44.065622,12.2593231
+Roncofreddo,Diolaguardia,village,44.0699017,12.2304391
+Roncofreddo,Gualdo,village,44.0238552,12.2045641
+San Mauro Pascoli,San Mauro a Mare,village,44.1631101,12.4466459
+Santa Sofia,Santa Sofia,village,43.9472672,11.9084513
+Santa Sofia,Spinello,village,43.9241936,11.9814077
+Sarsina,Sarsina,village,43.9187582,12.1432584
+Sarsina,Ranchio,village,43.9700811,12.0783
+Sarsina,Quarto,village,43.8917279,12.0877962
+Sarsina,Pieve di Rivoschio,village,44.001716,12.0685419
+Sogliano al Rubicone,Sogliano al Rubicone,village,44.004663,12.300541
+Tredozio,Tredozio,village,44.0810425,11.7442078
+Verghereto,Verghereto,village,43.792956,12.003938
+Verghereto,Alfero,village,43.8470635,12.0549177
+Verghereto,Montione,village,43.7852708,11.9931548
+Coriano,Coriano,village,43.965186,12.602374
+Coriano,Sant'Andrea in Besanigo,village,43.9804006,12.6205391
+Coriano,Cerasolo,village,43.9833058,12.5362383
+Coriano,Ospedaletto,village,43.9832823,12.5695541
+Gemmano,Gemmano,village,43.9041617,12.5830579
+Gemmano,Villa di Gemmano,village,43.9055569,12.5899474
+Misano Adriatico,Cella,village,43.950695,12.6730133
+Misano Adriatico,Misano Monte,village,43.9586567,12.655194
+Misano Adriatico,Santa Monica,village,43.9570975,12.6875205
+Mondaino,Mondaino,village,43.8557055,12.6713923
+Montefiore Conca,Montefiore Conca,village,43.8902363,12.6103147
+Montegridolfo,Montegridolfo,village,43.8589996,12.6885114
+Morciano di Romagna,Morciano di Romagna,village,43.913748,12.6460672
+Rimini,Corpolò,village,44.0198934,12.452653
+Rimini,Gaiofana,village,44.0054901,12.5691907
+Rimini,Santa Giustina,village,44.0683524,12.4838248
+Rimini,Villaggio 1° maggio,village,44.034847,12.5742448
+Rimini,Orsoleto,village,44.0808734,12.502859
+Rimini,Torre Pedrera,village,44.1069343,12.5104746
+Rimini,Viserba,village,44.0851402,12.5348599
+Rimini,Viserbella,village,44.0953582,12.5256331
+Rimini,Grotta Rossa,village,44.0356913,12.5560534
+Saludecio,Saludecio,village,43.8726846,12.6685074
+San Clemente,San Clemente,village,43.9322054,12.6256931
+San Clemente,Queri,village,-35.5891893,-71.4301197
+San Clemente,Sant'Andrea in Casale,village,43.9318311,12.653668
+San Clemente,Bramadero,village,-35.603451,-71.299663
+San Clemente,San Clemente,village,20.5146982,-100.0835098
+San Clemente,El Colorado,village,-35.6378656,-71.2634074
+San Clemente,Camacho,village,-13.6126159,-76.1692341
+San Clemente,El Aterrizaje,village,-13.6762663,-76.1308996
+San Clemente,Fundo La Hoyada,village,-13.6519151,-76.1523393
+San Clemente,Bandin,village,-13.6805512,-76.1047536
+San Clemente,Santa Clara,village,-13.6861566,-76.0899608
+San Clemente,Miraflores,village,-13.6644124,-76.1512618
+San Clemente,Aurora,village,-35.4955654,-71.5289742
+San Clemente,Mariposas,village,-35.5293347,-71.4215097
+San Clemente,San Diego Sur,village,-35.5812969,-71.4666224
+San Clemente,Buenos Aires,village,-35.5944366,-71.3797296
+San Clemente,San Diego Norte,village,-35.5686262,-71.4693261
+San Clemente,Flor del Llano,village,-35.5059993,-71.5292193
+San Clemente,El Olivar,village,-35.5634867,-71.5791697
+San Giovanni in Marignano,San Giovanni in Marignano,village,43.9386683,12.7124941
+Santarcangelo di Romagna,Sant'Ermete,village,44.0341157,12.4875459
+Santarcangelo di Romagna,San Vito,village,44.0831113,12.4573825
+Santarcangelo di Romagna,San Martino dei Mulini,village,44.0337759,12.4618206
+Santarcangelo di Romagna,San Michele,village,44.0398464,12.4269752
+Santarcangelo di Romagna,La Giola,village,44.0794494,12.4408536
+Verucchio,Villa Verucchio,village,44.0038969,12.4328817
+Casteldelci,Casteldelci,village,43.7911505,12.1551264
+Maiolo,Maiolo,village,43.87396,12.311144
+Novafeltria,Novafeltria,village,43.8957266,12.2903985
+Novafeltria,Miniera,village,43.8996121,12.2266938
+Novafeltria,Perticara,village,43.9061473,12.2405863
+Pennabilli,Pennabilli,village,43.8170539,12.265276
+Pennabilli,Maciano,village,43.8436593,12.2840767
+San Leo,San Leo,village,43.896961,12.343644
+San Leo,Pietracuta,village,43.953122,12.3712099
+Sant'Agata Feltria,Sant'Agata Feltria,village,43.8643024,12.2079994
+Sant'Agata Feltria,Romagnano,village,43.9219111,12.1674664
+Sant'Agata Feltria,San Donato,village,43.8808549,12.2014638
+Talamello,Talamello,village,43.9049899,12.2858982
+Poggio Torriana,Torriana,village,43.9858,12.385382
+Poggio Torriana,Poggio Berni,village,44.0272603,12.4088012
+Poggio Torriana,Santo Marino,village,44.0150749,12.4073037
+Poggio Torriana,Gemmiano,village,44.0022148,12.3927369
+Poggio Torriana,Sant'Andrea,village,44.035325,12.4212965
+Poggio Torriana,Polverella,village,43.9931015,12.3913488
+Montescudo-Monte Colombo,Monte Colombo,village,43.9204657,12.5521057
+Montescudo-Monte Colombo,Montescudo,village,43.91928,12.5432591
+Montescudo-Monte Colombo,Trarivi,village,43.9364223,12.542716
+Montescudo-Monte Colombo,Croce,village,43.9241832,12.5898433
+Montescudo-Monte Colombo,San Savino,village,43.9386851,12.5954066
+Montescudo-Monte Colombo,Taverna,village,43.9118296,12.5571054
+Montescudo-Monte Colombo,Santa Maria del Piano,village,43.9051078,12.5354108
+Montecopiolo,Villagrande,village,43.8402291,12.3591843
+Sassofeltrio,Sassofeltrio,village,43.8919617,12.5101834
+Sassofeltrio,Fratte,village,43.8927194,12.5307802
