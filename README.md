@@ -1,9 +1,3 @@
-Certamente. Ho analizzato il notebook Estrazione_Frazioni_ER.ipynb che hai caricato.
-
-Rispetto alle versioni precedenti, il cambiamento fondamentale è che ora il processo è integrato in un unico Notebook (Jupyter/Colab) che esegue sequenzialmente geocoding ed estrazione, invece di essere frammentato in script separati. Inoltre include la logica avanzata di rotazione dei server che abbiamo sviluppato alla fine.
-
-Ecco la descrizione aggiornata e coerente con il codice attuale, pronta per il tuo README.md su GitHub.
-
 Titolo del Progetto
 🌍 GeoFrazioni ER: Estrazione Intelligente Frazioni da OpenStreetMap
 
