@@ -1,5 +1,4 @@
-Titolo del Progetto
-🌍 GeoFrazioni ER: Estrazione Intelligente Frazioni da OpenStreetMap
+**🌍 GeoFrazioni ER: Estrazione Intelligente Frazioni da OpenStreetMap**
 
 Descrizione (da inserire nel README)
 Questo progetto fornisce un Jupyter Notebook (.ipynb) completo per scaricare, georeferenziare e catalogare tutte le frazioni dei comuni dell'Emilia-Romagna (o di altre regioni configurabili), risolvendo le criticità tipiche dello scraping su OpenStreetMap.
